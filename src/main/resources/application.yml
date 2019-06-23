@@ -1,1 +1,19 @@
+kafka:
+  adresses: ${KAFKA_BOOTSTRAP_ADDRESSES:}
 
+twitter:
+  consumer-key: ${TWITTER_CONSUMER_KEY:}
+  consumer-secret: ${TWITTER_CONSUMER_SECRET:}
+  access-token: ${TWITTER_ACCESS_TOKEN:}
+  access-token-secret: ${TWITTER_ACCESS_TOKEN_SECRET:}
+crypto-metadata:
+  api-key: ${COIN_META_API_KEY:}
+  base-url: ${COIN_META_BASE_URL:https://rest.coinapi.io}
+
+update-schedules:
+  # should be once a day for the metadata
+  metadata: ${METADATA_SCHEDULE:0 1 0 1/1 * ? *}
+
+
+topics:
+  metadata: ${METADATA_TOPIC:}
