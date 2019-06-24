@@ -12,8 +12,10 @@ crypto-metadata:
 
 update-schedules:
   # should be once a day for the metadata
-  metadata: ${METADATA_SCHEDULE:0 1 0 1/1 * ? *}
+  metadata: ${METADATA_SCHEDULE:0 0 0 * * ?}
+  coins: ${COINS_SCHEDULE:0 0 * ? * *}
 
 
 topics:
   metadata: ${METADATA_TOPIC:}
+  coins: ${COINS_TOPIC:}

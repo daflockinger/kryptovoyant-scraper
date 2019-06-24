@@ -1,8 +1,9 @@
 package com.flockinger.kryptovoyant.scraper.client.metadata.dto;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class CryptoMetaData {
+public class CryptoMetaData implements Serializable {
 
   private String symbol;
   private List<ExchangeRate> exchangeRate;

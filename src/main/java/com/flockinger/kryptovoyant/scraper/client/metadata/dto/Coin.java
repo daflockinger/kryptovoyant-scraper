@@ -1,8 +1,9 @@
 package com.flockinger.kryptovoyant.scraper.client.metadata.dto;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Coin {
+public class Coin implements Serializable {
 
   private String currencyName;
   private String symbol;
