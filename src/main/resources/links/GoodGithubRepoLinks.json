@@ -1,0 +1,3714 @@
+[
+  {
+    "symbol": "BTC",
+    "sources": "https://github.com/bitcoin/bitcoin"
+  },
+  {
+    "symbol": "ETH",
+    "sources": "https://github.com/ethereum/go-ethereum"
+  },
+  {
+    "symbol": "XRP",
+    "sources": "https://github.com/ripple/rippled"
+  },
+  {
+    "symbol": "LTC",
+    "sources": "https://github.com/litecoin-project/litecoin"
+  },
+  {
+    "symbol": "BCH",
+    "sources": "https://github.com/Bitcoin-ABC/bitcoin-abc"
+  },
+  {
+    "symbol": "EOS",
+    "sources": "https://github.com/EOSIO/eos"
+  },
+  {
+    "symbol": "BSV",
+    "sources": "https://github.com/bitcoin-sv/bitcoin-sv"
+  },
+  {
+    "symbol": "ADA",
+    "sources": "https://github.com/input-output-hk/cardano-sl/"
+  },
+  {
+    "symbol": "TRX",
+    "sources": "https://github.com/tronprotocol/java-tron"
+  },
+  {
+    "symbol": "XLM",
+    "sources": "https://github.com/stellar/stellar-core"
+  },
+  {
+    "symbol": "XMR",
+    "sources": "https://github.com/monero-project/monero"
+  },
+  {
+    "symbol": "DASH",
+    "sources": "https://github.com/dashpay/dash"
+  },
+  {
+    "symbol": "NEO",
+    "sources": "https://github.com/neo-project/neo"
+  },
+  {
+    "symbol": "MIOTA",
+    "sources": "https://github.com/iotaledger/iri"
+  },
+  {
+    "symbol": "ATOM",
+    "sources": "https://github.com/cosmos/cosmos-sdk"
+  },
+  {
+    "symbol": "ETC",
+    "sources": "https://github.com/ethereumclassic/go-ethereum"
+  },
+  {
+    "symbol": "XEM",
+    "sources": "https://github.com/nemtech/catapult-server"
+  },
+  {
+    "symbol": "LINK",
+    "sources": "https://github.com/smartcontractkit/chainlink"
+  },
+  {
+    "symbol": "ONT",
+    "sources": "https://github.com/ontio/ontology"
+  },
+  {
+    "symbol": "ZEC",
+    "sources": "https://github.com/zcash/zcash"
+  },
+  {
+    "symbol": "XTZ",
+    "sources": "https://gitlab.com/tezos/tezos"
+  },
+  {
+    "symbol": "BTG",
+    "sources": "https://github.com/BTCGPU/BTCGPU"
+  },
+  {
+    "symbol": "QTUM",
+    "sources": "https://github.com/qtumproject/qtum/"
+  },
+  {
+    "symbol": "DOGE",
+    "sources": "https://github.com/dogecoin/dogecoin"
+  },
+  {
+    "symbol": "USDC",
+    "sources": "https://github.com/centrehq/centre-tokens"
+  },
+  {
+    "symbol": "OMG",
+    "sources": "https://github.com/omisego/elixir-omg"
+  },
+  {
+    "symbol": "DCR",
+    "sources": "https://github.com/decred/dcrd"
+  },
+  {
+    "symbol": "VSYS",
+    "sources": "https://github.com/virtualeconomy/v-systems"
+  },
+  {
+    "symbol": "HOT",
+    "sources": "https://github.com/holochain/holochain-rust"
+  },
+  {
+    "symbol": "LSK",
+    "sources": "https://github.com/LiskHQ/lisk-sdk"
+  },
+  {
+    "symbol": "RVN",
+    "sources": "https://github.com/RavenProject/Ravencoin"
+  },
+  {
+    "symbol": "TUSD",
+    "sources": "https://github.com/trusttoken/true-currencies"
+  },
+  {
+    "symbol": "BCD",
+    "sources": "https://github.com/eveybcd/BitcoinDiamond"
+  },
+  {
+    "symbol": "REP",
+    "sources": "https://github.com/AugurProject/augur-core"
+  },
+  {
+    "symbol": "WAVES",
+    "sources": "https://github.com/wavesplatform/Waves"
+  },
+  {
+    "symbol": "HC",
+    "sources": "https://github.com/HcashOrg/hcd"
+  },
+  {
+    "symbol": "BCN",
+    "sources": "https://github.com/bcndev/bytecoin"
+  },
+  {
+    "symbol": "ZRX",
+    "sources": "https://github.com/0xProject/0x-monorepo"
+  },
+  {
+    "symbol": "NANO",
+    "sources": "https://github.com/nanocurrency/nano-node"
+  },
+  {
+    "symbol": "BTS",
+    "sources": "https://github.com/bitshares/bitshares-core"
+  },
+  {
+    "symbol": "QBIT",
+    "sources": "https://github.com/dantak2000/qubitica"
+  },
+  {
+    "symbol": "HEDG",
+    "sources": "https://github.com/rublixdev/hedgtokenmint"
+  },
+  {
+    "symbol": "MONA",
+    "sources": "https://github.com/monacoinproject/monacoin"
+  },
+  {
+    "symbol": "BTM",
+    "sources": "https://github.com/Bytom/bytom"
+  },
+  {
+    "symbol": "DGB",
+    "sources": "https://github.com/digibyte/digibyte"
+  },
+  {
+    "symbol": "ICX",
+    "sources": "https://github.com/icon-project/loopchain"
+  },
+  {
+    "symbol": "ZIL",
+    "sources": "https://github.com/Zilliqa/Zilliqa"
+  },
+  {
+    "symbol": "PAX",
+    "sources": "https://github.com/paxosglobal/pax-contracts"
+  },
+  {
+    "symbol": "ABBC",
+    "sources": "https://github.com/ABBCTEAM/abbc"
+  },
+  {
+    "symbol": "ETP",
+    "sources": "https://github.com/mvs-org/metaverse"
+  },
+  {
+    "symbol": "KMD",
+    "sources": "https://github.com/KomodoPlatform/komodo"
+  },
+  {
+    "symbol": "AE",
+    "sources": "https://github.com/aeternity/aeternity"
+  },
+  {
+    "symbol": "XVG",
+    "sources": "https://github.com/vergecurrency/VERGE"
+  },
+  {
+    "symbol": "XIN",
+    "sources": "https://github.com/MixinNetwork/mixin"
+  },
+  {
+    "symbol": "STEEM",
+    "sources": "https://github.com/steemit/steem"
+  },
+  {
+    "symbol": "NRG",
+    "sources": "https://github.com/energicryptocurrency/energi"
+  },
+  {
+    "symbol": "GXC",
+    "sources": "https://github.com/gxchain/gxb-core"
+  },
+  {
+    "symbol": "VEST",
+    "sources": "https://github.com/vestchain/vestchain"
+  },
+  {
+    "symbol": "THETA",
+    "sources": "https://github.com/thetatoken/theta-protocol-ledger"
+  },
+  {
+    "symbol": "SNT",
+    "sources": "https://github.com/status-im/status-react"
+  },
+  {
+    "symbol": "ELF",
+    "sources": "https://github.com/AElfProject/AElf"
+  },
+  {
+    "symbol": "LAMB",
+    "sources": "https://github.com/LambdaIM/lambda-libs"
+  },
+  {
+    "symbol": "ENJ",
+    "sources": "https://github.com/enjin/contracts"
+  },
+  {
+    "symbol": "MAID",
+    "sources": "https://github.com/maidsafe/crust"
+  },
+  {
+    "symbol": "NEX",
+    "sources": "https://github.com/nash-io/nex-token"
+  },
+  {
+    "symbol": "XMX",
+    "sources": "https://github.com/XMaxPlatform/xmax-mainchain"
+  },
+  {
+    "symbol": "XZC",
+    "sources": "https://github.com/zcoinofficial/zcoin/"
+  },
+  {
+    "symbol": "DAI",
+    "sources": "https://github.com/makerdao/dai.js"
+  },
+  {
+    "symbol": "STRAT",
+    "sources": "https://github.com/stratisproject/StratisBitcoinFullNode"
+  },
+  {
+    "symbol": "GNT",
+    "sources": "https://github.com/golemfactory/golem"
+  },
+  {
+    "symbol": "WAX",
+    "sources": "https://github.com/waxio/wax-erc20-delivery-contract"
+  },
+  {
+    "symbol": "NAS",
+    "sources": "https://github.com/nebulasio/go-nebulas"
+  },
+  {
+    "symbol": "SAN",
+    "sources": "https://github.com/santiment/sanbase2"
+  },
+  {
+    "symbol": "ZEN",
+    "sources": "https://github.com/ZencashOfficial/zen"
+  },
+  {
+    "symbol": "GRIN",
+    "sources": "https://github.com/mimblewimble/grin"
+  },
+  {
+    "symbol": "ODE",
+    "sources": "https://github.com/odemio/ico"
+  },
+  {
+    "symbol": "PAI",
+    "sources": "https://github.com/projectpai/paicoin"
+  },
+  {
+    "symbol": "NEXO",
+    "sources": "https://github.com/nexofinance/NEXO-Token/"
+  },
+  {
+    "symbol": "ELA",
+    "sources": "https://github.com/elastos/Elastos.ELA"
+  },
+  {
+    "symbol": "RDD",
+    "sources": "https://github.com/reddcoin-project/reddcoin"
+  },
+  {
+    "symbol": "QNT",
+    "sources": "https://github.com/quantnetwork/eth-contract-metadata"
+  },
+  {
+    "symbol": "NULS",
+    "sources": "https://github.com/nuls-io/nuls"
+  },
+  {
+    "symbol": "TRUE",
+    "sources": "https://github.com/truechain/truechain-engineering-code"
+  },
+  {
+    "symbol": "LA",
+    "sources": "https://github.com/ElKornacio/contracts-early"
+  },
+  {
+    "symbol": "LRC",
+    "sources": "https://github.com/Loopring/protocol"
+  },
+  {
+    "symbol": "FCT",
+    "sources": "https://github.com/FactomProject/factomd"
+  },
+  {
+    "symbol": "DGD",
+    "sources": "https://github.com/DigixGlobal/dao-contracts"
+  },
+  {
+    "symbol": "ARK",
+    "sources": "https://github.com/ArkEcosystem/core"
+  },
+  {
+    "symbol": "BEAM",
+    "sources": "https://github.com/BeamMW/beam"
+  },
+  {
+    "symbol": "ORBS",
+    "sources": "https://github.com/orbs-network/orbs-network-go"
+  },
+  {
+    "symbol": "LOOM",
+    "sources": "https://github.com/loomnetwork/go-loom"
+  },
+  {
+    "symbol": "MANA",
+    "sources": "https://github.com/decentraland/marketplace"
+  },
+  {
+    "symbol": "REN",
+    "sources": "https://github.com/renproject/darknode-sol"
+  },
+  {
+    "symbol": "ONE",
+    "sources": "https://github.com/harmony-one/harmony"
+  },
+  {
+    "symbol": "ETN",
+    "sources": "https://github.com/electroneum/electroneum"
+  },
+  {
+    "symbol": "FSN",
+    "sources": "https://github.com/FUSIONFoundation/efsn"
+  },
+  {
+    "symbol": "BNT",
+    "sources": "https://github.com/bancorprotocol/contracts"
+  },
+  {
+    "symbol": "MATIC",
+    "sources": "https://github.com/maticnetwork/contracts"
+  },
+  {
+    "symbol": "FTM",
+    "sources": "https://github.com/Fantom-foundation/go-lachesis"
+  },
+  {
+    "symbol": "AION",
+    "sources": "https://github.com/aionnetwork/aion"
+  },
+  {
+    "symbol": "KNC",
+    "sources": "https://github.com/KyberNetwork/smart-contracts"
+  },
+  {
+    "symbol": "WAN",
+    "sources": "https://github.com/wanchain/go-wanchain"
+  },
+  {
+    "symbol": "ENG",
+    "sources": "https://github.com/enigmampc/enigma-core"
+  },
+  {
+    "symbol": "MOAC",
+    "sources": "https://github.com/MOACChain/moac-core"
+  },
+  {
+    "symbol": "ETZ",
+    "sources": "https://github.com/etherzero-org/go-etherzero"
+  },
+  {
+    "symbol": "POLY",
+    "sources": "https://github.com/PolymathNetwork/polymath-core"
+  },
+  {
+    "symbol": "UUU",
+    "sources": "https://github.com/U-Network/unetwork"
+  },
+  {
+    "symbol": "PIVX",
+    "sources": "https://github.com/PIVX-Project/PIVX/"
+  },
+  {
+    "symbol": "TFUEL",
+    "sources": "https://github.com/thetatoken/theta-protocol-ledger"
+  },
+  {
+    "symbol": "TOMO",
+    "sources": "https://github.com/tomochain/tomochain"
+  },
+  {
+    "symbol": "QKC",
+    "sources": "https://github.com/QuarkChain/pyquarkchain"
+  },
+  {
+    "symbol": "IPC",
+    "sources": "https://github.com/IPCChain/ipchain"
+  },
+  {
+    "symbol": "RIF",
+    "sources": "https://github.com/riflabs"
+  },
+  {
+    "symbol": "ABT",
+    "sources": "https://github.com/ArcBlock/forge-js"
+  },
+  {
+    "symbol": "STORJ",
+    "sources": "https://github.com/storj/storj"
+  },
+  {
+    "symbol": "CMT",
+    "sources": "https://github.com/CyberMiles/travis"
+  },
+  {
+    "symbol": "IOTX",
+    "sources": "https://github.com/iotexproject/iotex-core"
+  },
+  {
+    "symbol": "RLC",
+    "sources": "hhttps://github.com/iExecBlockchainComputing/iexec-sdk"
+  },
+  {
+    "symbol": "UNO",
+    "sources": "https://github.com/unobtanium-official/Unobtanium"
+  },
+  {
+    "symbol": "GRS",
+    "sources": "https://github.com/Groestlcoin/groestlcoin"
+  },
+  {
+    "symbol": "SKY",
+    "sources": "https://github.com/skycoin/skycoin"
+  },
+  {
+    "symbol": "VTC",
+    "sources": "https://github.com/vertcoin/vertcoin"
+  },
+  {
+    "symbol": "APL",
+    "sources": "https://github.com/ApolloFoundation/Apollo"
+  },
+  {
+    "symbol": "HYC",
+    "sources": "https://github.com/Team-Hycon/hycon-core"
+  },
+  {
+    "symbol": "SYS",
+    "sources": "https://github.com/syscoin/syscoin"
+  },
+  {
+    "symbol": "BOX",
+    "sources": "https://github.com/BOXFoundation/boxd"
+  },
+  {
+    "symbol": "TNT",
+    "sources": "https://github.com/chainpoint/chainpoint-node"
+  },
+  {
+    "symbol": "EMC2",
+    "sources": "https://github.com/emc2foundation/einsteinium"
+  },
+  {
+    "symbol": "GBYTE",
+    "sources": "https://github.com/byteball/ocore"
+  },
+  {
+    "symbol": "MFT",
+    "sources": "https://github.com/MainframeHQ/mainframe-os"
+  },
+  {
+    "symbol": "MEDX",
+    "sources": "https://github.com/medibloc/go-medibloc"
+  },
+  {
+    "symbol": "VBK",
+    "sources": "https://github.com/VeriBlock/nodecore"
+  },
+  {
+    "symbol": "NXS",
+    "sources": "https://github.com/Nexusoft/Legacy"
+  },
+  {
+    "symbol": "RHOC",
+    "sources": "https://github.com/rchain/rchain"
+  },
+  {
+    "symbol": "NKN",
+    "sources": "https://github.com/nknorg/nkn"
+  },
+  {
+    "symbol": "ACT",
+    "sources": "https://github.com/Achain-Dev/Achain"
+  },
+  {
+    "symbol": "PART",
+    "sources": "https://github.com/particl/particl-core"
+  },
+  {
+    "symbol": "RDN",
+    "sources": "https://github.com/raiden-network/raiden/"
+  },
+  {
+    "symbol": "QRL",
+    "sources": "https://github.com/theQRL/QRL"
+  },
+  {
+    "symbol": "BURST",
+    "sources": "https://github.com/burst-apps-team/burstcoin"
+  },
+  {
+    "symbol": "IQ",
+    "sources": "https://github.com/EveripediaNetwork/Everipedia"
+  },
+  {
+    "symbol": "IRIS",
+    "sources": "https://github.com/irisnet/irishub"
+  },
+  {
+    "symbol": "ANKR",
+    "sources": "https://github.com/Ankr-network/dccn-daemon"
+  },
+  {
+    "symbol": "NEBL",
+    "sources": "https://github.com/NeblioTeam/neblio"
+  },
+  {
+    "symbol": "POE",
+    "sources": "https://github.com/poetapp/node"
+  },
+  {
+    "symbol": "BOS",
+    "sources": "https://github.com/bosnet/sebak"
+  },
+  {
+    "symbol": "DRGN",
+    "sources": "https://github.com/dragonchain/dragonchain"
+  },
+  {
+    "symbol": "TNB",
+    "sources": "https://github.com/timenewbank/go-mit"
+  },
+  {
+    "symbol": "LBTC",
+    "sources": "https://github.com/lbtcio/lbtc-lightwallet-server"
+  },
+  {
+    "symbol": "DATA",
+    "sources": "https://github.com/streamr-dev/engine-and-editor"
+  },
+  {
+    "symbol": "AERGO",
+    "sources": "https://github.com/aergoio/aergo"
+  },
+  {
+    "symbol": "VITE",
+    "sources": "https://github.com/vitelabs/go-vite"
+  },
+  {
+    "symbol": "REQ",
+    "sources": "https://github.com/RequestNetwork/requestNetwork"
+  },
+  {
+    "symbol": "MOC",
+    "sources": "https://github.com/realityreflection/MossCoin"
+  },
+  {
+    "symbol": "OST",
+    "sources": "https://github.com/OpenST/mosaic-contracts"
+  },
+  {
+    "symbol": "B2G",
+    "sources": "https://github.com/bitcoiinBT2/go-bitcoiin"
+  },
+  {
+    "symbol": "MAN",
+    "sources": "https://github.com/MatrixAINetwork/go-matrix"
+  },
+  {
+    "symbol": "FOAM",
+    "sources": "https://github.com/f-o-a-m/purescript-web3"
+  },
+  {
+    "symbol": "RCN",
+    "sources": "https://github.com/ripio/rcn-network"
+  },
+  {
+    "symbol": "SMART",
+    "sources": "https://github.com/SmartCash/Core-Smart"
+  },
+  {
+    "symbol": "QSP",
+    "sources": "https://github.com/quantstamp/qsp-protocol-node"
+  },
+  {
+    "symbol": "FET",
+    "sources": "https://github.com/fetchai/ledger"
+  },
+  {
+    "symbol": "NAV",
+    "sources": "https://github.com/navcoin/navcoin-core"
+  },
+  {
+    "symbol": "FLO",
+    "sources": "https://github.com/floblockchain/flo"
+  },
+  {
+    "symbol": "BLOCK",
+    "sources": "https://github.com/blocknetdx/blocknet"
+  },
+  {
+    "symbol": "TPAY",
+    "sources": "https://github.com/tokenpay/tokenpay"
+  },
+  {
+    "symbol": "CLAM",
+    "sources": "https://github.com/nochowderforyou/clams"
+  },
+  {
+    "symbol": "WGR",
+    "sources": "https://github.com/wagerr/wagerr"
+  },
+  {
+    "symbol": "BTX",
+    "sources": "https://github.com/LIMXTEC/BitCore"
+  },
+  {
+    "symbol": "SEELE",
+    "sources": "https://github.com/seeleteam/go-seele"
+  },
+  {
+    "symbol": "VITAE",
+    "sources": "https://github.com/VitaeTeam/Vitae"
+  },
+  {
+    "symbol": "PZM",
+    "sources": "https://github.com/prizmspace/PrizmCore"
+  },
+  {
+    "symbol": "INS",
+    "sources": "https://github.com/insolar/insolar"
+  },
+  {
+    "symbol": "CS",
+    "sources": "https://github.com/CREDITSCOM/node"
+  },
+  {
+    "symbol": "BOX",
+    "sources": "https://github.com/boxproject/voucher"
+  },
+  {
+    "symbol": "SMT",
+    "sources": "https://github.com/SmartMeshFoundation/Spectrum"
+  },
+  {
+    "symbol": "XDN",
+    "sources": "https://github.com/DigitalNoteXDN/DigitalNote-2"
+  },
+  {
+    "symbol": "AEON",
+    "sources": "https://github.com/aeonix/aeon"
+  },
+  {
+    "symbol": "VIA",
+    "sources": "https://github.com/viacoin/viacoin"
+  },
+  {
+    "symbol": "NIX",
+    "sources": "https://github.com/NixPlatform/NixCore"
+  },
+  {
+    "symbol": "NMC",
+    "sources": "https://github.com/namecoin/namecoin-core"
+  },
+  {
+    "symbol": "ZCL",
+    "sources": "https://github.com/ZClassicCommunity/zclassic"
+  },
+  {
+    "symbol": "XSPEC",
+    "sources": "https://github.com/spectrecoin/spectre"
+  },
+  {
+    "symbol": "PPC",
+    "sources": "https://github.com/peercoin/peercoin"
+  },
+  {
+    "symbol": "ADX",
+    "sources": "https://github.com/AdExNetwork/adex-protocol"
+  },
+  {
+    "symbol": "EMC",
+    "sources": "https://github.com/emercoin/emercoin"
+  },
+  {
+    "symbol": "DDD",
+    "sources": "https://github.com/scryinfo/dp"
+  },
+  {
+    "symbol": "ECA",
+    "sources": "https://github.com/Electra-project/electra-core"
+  },
+  {
+    "symbol": "ADS",
+    "sources": "https://github.com/adshares/adserver"
+  },
+  {
+    "symbol": "XAS",
+    "sources": "https://github.com/AschPlatform/asch"
+  },
+  {
+    "symbol": "SBD",
+    "sources": "https://github.com/steemit/steem"
+  },
+  {
+    "symbol": "LINDA",
+    "sources": "https://github.com/TheLindaProjectInc/Linda"
+  },
+  {
+    "symbol": "EDC",
+    "sources": "https://github.com/EDCBlockchain/blockchain"
+  },
+  {
+    "symbol": "PI",
+    "sources": "https://github.com/pchain-org/pchain"
+  },
+  {
+    "symbol": "DNT",
+    "sources": "https://github.com/district0x/district0x-network-token"
+  },
+  {
+    "symbol": "SUB",
+    "sources": "https://github.com/SubstratumNetwork/SubstratumNode"
+  },
+  {
+    "symbol": "SWFTC",
+    "sources": "https://github.com/SwftCoins/SwftCoin"
+  },
+  {
+    "symbol": "XCP",
+    "sources": "https://github.com/CounterpartyXCP/counterparty-lib"
+  },
+  {
+    "symbol": "TAC",
+    "sources": "https://github.com/TraceabilityChain/TAC"
+  },
+  {
+    "symbol": "NMR",
+    "sources": "https://github.com/numerai/contract"
+  },
+  {
+    "symbol": "CPC",
+    "sources": "https://github.com/CPChain/chain"
+  },
+  {
+    "symbol": "CHX",
+    "sources": "https://github.com/OwnMarket/OwnBlockchain"
+  },
+  {
+    "symbol": "SWM",
+    "sources": "https://github.com/swarmfund/swarm-masternode"
+  },
+  {
+    "symbol": "INT",
+    "sources": "https://github.com/intfoundation/int"
+  },
+  {
+    "symbol": "LBC",
+    "sources": "https://github.com/lbryio/lbry-sdk"
+  },
+  {
+    "symbol": "POA",
+    "sources": "https://github.com/poanetwork/blockscout"
+  },
+  {
+    "symbol": "ARN",
+    "sources": "https://github.com/aeronaero/aeron"
+  },
+  {
+    "symbol": "XSN",
+    "sources": "https://github.com/X9Developers/XSN"
+  },
+  {
+    "symbol": "QLC",
+    "sources": "https://github.com/qlcchain/go-qlc"
+  },
+  {
+    "symbol": "UBQ",
+    "sources": "https://github.com/ubiq/go-ubiq"
+  },
+  {
+    "symbol": "MED",
+    "sources": "https://github.com/medibloc/go-medibloc"
+  },
+  {
+    "symbol": "MTH",
+    "sources": "https://github.com/monetha/reputation-js-sdk"
+  },
+  {
+    "symbol": "AST",
+    "sources": "https://github.com/airswap/AirSwap.js"
+  },
+  {
+    "symbol": "LOC",
+    "sources": "https://github.com/LockTrip/Blockchain"
+  },
+  {
+    "symbol": "CNN",
+    "sources": "https://github.com/cnntoken/NewsDog-CNN"
+  },
+  {
+    "symbol": "OCEAN",
+    "sources": "https://github.com/oceanprotocol/ocean"
+  },
+  {
+    "symbol": "PND",
+    "sources": "https://github.com/DigitalPandacoin/pandacoin"
+  },
+  {
+    "symbol": "SNM",
+    "sources": "https://github.com/sonm-io/core"
+  },
+  {
+    "symbol": "BBR",
+    "sources": "https://github.com/cryptozoidberg/boolberry"
+  },
+  {
+    "symbol": "SPND",
+    "sources": "https://github.com/Spend/Spendchain"
+  },
+  {
+    "symbol": "SFT",
+    "sources": "https://github.com/safex/safexcore"
+  },
+  {
+    "symbol": "LCC",
+    "sources": "https://github.com/litecoincash-project/litecoincash"
+  },
+  {
+    "symbol": "SDA",
+    "sources": "https://github.com/SDChain/SDChain-Core"
+  },
+  {
+    "symbol": "NLG",
+    "sources": "https://github.com/Gulden/gulden-official"
+  },
+  {
+    "symbol": "ONION",
+    "sources": "https://github.com/deeponion/deeponion"
+  },
+  {
+    "symbol": "GEN",
+    "sources": "https://github.com/daostack/arc"
+  },
+  {
+    "symbol": "FTC",
+    "sources": "https://github.com/FeatherCoin/Feathercoin"
+  },
+  {
+    "symbol": "GNX",
+    "sources": "https://github.com/GenaroNetwork/GenaroCore"
+  },
+  {
+    "symbol": "TRAC",
+    "sources": "https://github.com/OriginTrail/ot-node"
+  },
+  {
+    "symbol": "AMB",
+    "sources": "https://github.com/ambrosus/ambrosus-node"
+  },
+  {
+    "symbol": "LEO",
+    "sources": "https://github.com/Leocoin-project/LEOcoin"
+  },
+  {
+    "symbol": "ULT",
+    "sources": "https://github.com/ultiledger/utoken"
+  },
+  {
+    "symbol": "LOKI",
+    "sources": "https://github.com/loki-project/loki"
+  },
+  {
+    "symbol": "DOCK",
+    "sources": "https://github.com/getdock/voting"
+  },
+  {
+    "symbol": "UTNP",
+    "sources": "https://github.com/UniversaBlockchain/universa"
+  },
+  {
+    "symbol": "SPHR",
+    "sources": "https://github.com/SphereDevs/sphere/"
+  },
+  {
+    "symbol": "GSC",
+    "sources": "https://github.com/gscsocial/gsc-core"
+  },
+  {
+    "symbol": "PTON",
+    "sources": "https://github.com/forestingnetwork/go-ptonchain"
+  },
+  {
+    "symbol": "TRTL",
+    "sources": "https://github.com/turtlecoin/turtlecoin"
+  },
+  {
+    "symbol": "PLR",
+    "sources": "https://github.com/pillarwallet/pillarwallet"
+  },
+  {
+    "symbol": "XPM",
+    "sources": "https://github.com/primecoin/primecoin/"
+  },
+  {
+    "symbol": "BTO",
+    "sources": "https://github.com/bottos-project/bottos"
+  },
+  {
+    "symbol": "GAME",
+    "sources": "https://github.com/gamecredits-project/GameCredits"
+  },
+  {
+    "symbol": "CLOAK",
+    "sources": "https://github.com/CloakProject/Cloak2Public"
+  },
+  {
+    "symbol": "DERO",
+    "sources": "https://github.com/deroproject/derosuite"
+  },
+  {
+    "symbol": "ABL",
+    "sources": "https://github.com/airbloc/airbloc-go"
+  },
+  {
+    "symbol": "HTML",
+    "sources": "https://github.com/HTMLCOIN/HTMLCOIN"
+  },
+  {
+    "symbol": "ZEL",
+    "sources": "https://github.com/zelcash/zelcash"
+  },
+  {
+    "symbol": "PASC",
+    "sources": "https://github.com/PascalCoin/PascalCoin"
+  },
+  {
+    "symbol": "FIII",
+    "sources": "https://github.com/FiiiLab/FiiiCoin"
+  },
+  {
+    "symbol": "DAG",
+    "sources": "https://github.com/Constellation-Labs/constellation"
+  },
+  {
+    "symbol": "CZR",
+    "sources": "https://github.com/canonchain/canonchain"
+  },
+  {
+    "symbol": "MGD",
+    "sources": "https://github.com/MassGrid/MassGrid"
+  },
+  {
+    "symbol": "MLN",
+    "sources": "https://github.com/melonproject/protocol"
+  },
+  {
+    "symbol": "OTO",
+    "sources": "https://github.com/otocash/OTOCASH"
+  },
+  {
+    "symbol": "HOT",
+    "sources": "https://github.com/HydroProtocol/protocol"
+  },
+  {
+    "symbol": "BITB",
+    "sources": "https://github.com/TeamBitBean/bitbean-core"
+  },
+  {
+    "symbol": "CBT",
+    "sources": "https://github.com/commerceblock/ocean"
+  },
+  {
+    "symbol": "REM",
+    "sources": "https://github.com/Remmeauth/remme-core"
+  },
+  {
+    "symbol": "XST",
+    "sources": "https://github.com/StealthSend/Stealth/"
+  },
+  {
+    "symbol": "PHR",
+    "sources": "https://github.com/phoreproject/Phore"
+  },
+  {
+    "symbol": "$PAC",
+    "sources": "https://github.com/PACCommunity/PAC"
+  },
+  {
+    "symbol": "INK",
+    "sources": "https://github.com/inklabsfoundation/inkchain"
+  },
+  {
+    "symbol": "OK",
+    "sources": "https://github.com/okcashpro/okcash"
+  },
+  {
+    "symbol": "CPX",
+    "sources": "https://github.com/APEX-Network/APEX-Blockchain-Core"
+  },
+  {
+    "symbol": "XFC",
+    "sources": "https://github.com/MultiChain/multichain"
+  },
+  {
+    "symbol": "DMD",
+    "sources": "https://github.com/DMDcoin/Diamond"
+  },
+  {
+    "symbol": "SUSD",
+    "sources": "https://github.com/Havven/havven"
+  },
+  {
+    "symbol": "SINS",
+    "sources": "https://github.com/SafeInsure/sins-coin"
+  },
+  {
+    "symbol": "SOUL",
+    "sources": "https://github.com/phantasma-io/PhantasmaChain"
+  },
+  {
+    "symbol": "VIN",
+    "sources": "https://github.com/VinChain/VINchain-blockchain"
+  },
+  {
+    "symbol": "GARD",
+    "sources": "https://github.com/hashgard/hashgard"
+  },
+  {
+    "symbol": "GCC",
+    "sources": "https://github.com/TheGCCcoin/TheGCCcoin-source-code"
+  },
+  {
+    "symbol": "BTCP",
+    "sources": "https://github.com/BTCPrivate/BitcoinPrivate"
+  },
+  {
+    "symbol": "NCT",
+    "sources": "https://github.com/polyswarm/polyswarmd"
+  },
+  {
+    "symbol": "XBASE",
+    "sources": "https://github.com/eterbase/xbase-coin"
+  },
+  {
+    "symbol": "DIVI",
+    "sources": "https://github.com/Divicoin/Divi"
+  },
+  {
+    "symbol": "UT",
+    "sources": "https://github.com/UlordChain/UlordChain"
+  },
+  {
+    "symbol": "ZPT",
+    "sources": "https://github.com/zeepin/ZeepinChain"
+  },
+  {
+    "symbol": "VRC",
+    "sources": "https://github.com/vericoin/vericoin"
+  },
+  {
+    "symbol": "SIN",
+    "sources": "https://github.com/SINOVATEblockchain/SIN-core"
+  },
+  {
+    "symbol": "CRYP",
+    "sources": "https://github.com/crypticcoinvip/CrypticCoin"
+  },
+  {
+    "symbol": "PCL",
+    "sources": "https://github.com/Peculium-Dev/PCLToken"
+  },
+  {
+    "symbol": "RADS",
+    "sources": "https://github.com/RadiumCore/radium-0.11/"
+  },
+  {
+    "symbol": "LYL",
+    "sources": "https://github.com/NemProject/nem.core"
+  },
+  {
+    "symbol": "NTY",
+    "sources": "https://github.com/nextyio/gonex"
+  },
+  {
+    "symbol": "XMY",
+    "sources": "https://github.com/myriadteam/myriadcoin/"
+  },
+  {
+    "symbol": "MUE",
+    "sources": "https://github.com/muecoin/MUE"
+  },
+  {
+    "symbol": "POLIS",
+    "sources": "https://github.com/polispay/polis"
+  },
+  {
+    "symbol": "YEE",
+    "sources": "https://github.com/yeeco/gyee"
+  },
+  {
+    "symbol": "NSD",
+    "sources": "https://github.com/Nasdacoin/Nasdacoin"
+  },
+  {
+    "symbol": "PRG",
+    "sources": "https://github.com/paragon-coin/token"
+  },
+  {
+    "symbol": "BLT",
+    "sources": "https://github.com/hellobloom/core"
+  },
+  {
+    "symbol": "MINT",
+    "sources": "https://github.com/MintcoinCommunity/Mintcoin-Desktop-Wallet"
+  },
+  {
+    "symbol": "CBC",
+    "sources": "https://github.com/CashberyCoin/cashberycoin"
+  },
+  {
+    "symbol": "DCT",
+    "sources": "https://github.com/DECENTfoundation/DECENT-Network"
+  },
+  {
+    "symbol": "LUX",
+    "sources": "https://github.com/LUX-Core/lux"
+  },
+  {
+    "symbol": "NOKU",
+    "sources": "https://github.com/noku-team/noku-wallet"
+  },
+  {
+    "symbol": "DIME",
+    "sources": "https://github.com/dime-coin/dimecoin"
+  },
+  {
+    "symbol": "PNK",
+    "sources": "https://github.com/kleros/kleros"
+  },
+  {
+    "symbol": "SENT",
+    "sources": "https://github.com/sentinel-official/sentinel"
+  },
+  {
+    "symbol": "TAU",
+    "sources": "https://github.com/Lamden/cilantro"
+  },
+  {
+    "symbol": "YEED",
+    "sources": "https://github.com/yggdrash/yggdrash"
+  },
+  {
+    "symbol": "OSA",
+    "sources": "https://github.com/osa-decentralized/blockchain"
+  },
+  {
+    "symbol": "GLC",
+    "sources": "https://github.com/goldcoin/goldcoin"
+  },
+  {
+    "symbol": "GRC",
+    "sources": "https://github.com/gridcoin/Gridcoin-Research"
+  },
+  {
+    "symbol": "OLXA",
+    "sources": "https://github.com/OlxaCoin/OLXA"
+  },
+  {
+    "symbol": "XHV",
+    "sources": "https://github.com/haven-protocol-org/haven"
+  },
+  {
+    "symbol": "UBEX",
+    "sources": "https://github.com/ubex-ai/bank-marketing-boosted"
+  },
+  {
+    "symbol": "BIS",
+    "sources": "https://github.com/hclivess/Bismuth"
+  },
+  {
+    "symbol": "GENE",
+    "sources": "https://github.com/GeneSourceCodeChain/GeneSourceCodeDAG"
+  },
+  {
+    "symbol": "RPD",
+    "sources": "https://github.com/RapidsOfficial/Rapids"
+  },
+  {
+    "symbol": "RMESH",
+    "sources": "https://github.com/RightMesh/HelloMesh"
+  },
+  {
+    "symbol": "PRIX",
+    "sources": "https://github.com/Privatix/privatix"
+  },
+  {
+    "symbol": "IOC",
+    "sources": "https://github.com/IOCoin/DIONS"
+  },
+  {
+    "symbol": "PPY",
+    "sources": "https://github.com/PBSA/peerplays"
+  },
+  {
+    "symbol": "ADM",
+    "sources": "https://github.com/Adamant-im/adamant-im"
+  },
+  {
+    "symbol": "TRST",
+    "sources": "https://github.com/WeTrustPlatform/rosca-contracts"
+  },
+  {
+    "symbol": "BEET",
+    "sources": "https://github.com/beetledev/Wallet"
+  },
+  {
+    "symbol": "EVN",
+    "sources": "https://github.com/evencoinevn/Evencoin"
+  },
+  {
+    "symbol": "XHI",
+    "sources": "https://github.com/hicoindev/hicoin"
+  },
+  {
+    "symbol": "FAB",
+    "sources": "https://github.com/blockchaingate/fabcoin"
+  },
+  {
+    "symbol": "SLR",
+    "sources": "https://github.com/onsightit/solarcoin"
+  },
+  {
+    "symbol": "ATCC",
+    "sources": "https://github.com/atccoinofficial/ATCC"
+  },
+  {
+    "symbol": "TFL",
+    "sources": "https://github.com/TrueFlip/trueflip-contracts"
+  },
+  {
+    "symbol": "CARD",
+    "sources": "https://github.com/cardstack/cardstack"
+  },
+  {
+    "symbol": "0xBTC",
+    "sources": "https://github.com/0xbitcoin/0xbitcoin-token"
+  },
+  {
+    "symbol": "KRL",
+    "sources": "https://github.com/Cryptense/KryllToken"
+  },
+  {
+    "symbol": "EFX",
+    "sources": "https://github.com/effectai/effect-network"
+  },
+  {
+    "symbol": "POT",
+    "sources": "https://github.com/potcoin/Potcoin"
+  },
+  {
+    "symbol": "RISE",
+    "sources": "https://github.com/RiseVision/rise-node"
+  },
+  {
+    "symbol": "INXT",
+    "sources": "https://github.com/internxt/INXT"
+  },
+  {
+    "symbol": "SIB",
+    "sources": "https://github.com/ivansib/sibcoin/"
+  },
+  {
+    "symbol": "GRFT",
+    "sources": "https://github.com/graft-project/GraftNetwork"
+  },
+  {
+    "symbol": "XDCE",
+    "sources": "https://github.com/XinFinOrg/XinFin-Node"
+  },
+  {
+    "symbol": "WLO",
+    "sources": "https://github.com/pigzbe/pigzbe-app"
+  },
+  {
+    "symbol": "OLT",
+    "sources": "https://github.com/Oneledger/OLT"
+  },
+  {
+    "symbol": "BOXX",
+    "sources": "https://github.com/Blockpartyticketing/ERC20Token/"
+  },
+  {
+    "symbol": "BCI",
+    "sources": "https://github.com/BitcoinInterestOfficial/BitcoinInterest"
+  },
+  {
+    "symbol": "AAC",
+    "sources": "https://github.com/AcuteAngleCloud/Acute-Angle-Chain"
+  },
+  {
+    "symbol": "AMP",
+    "sources": "https://github.com/synereo/synereo"
+  },
+  {
+    "symbol": "NLC2",
+    "sources": "https://github.com/NoLimitCoin/NoLimitCoin-Core"
+  },
+  {
+    "symbol": "MYST",
+    "sources": "https://github.com/mysteriumnetwork/node"
+  },
+  {
+    "symbol": "MUSIC",
+    "sources": "https://github.com/Musicoin/go-musicoin"
+  },
+  {
+    "symbol": "NOTE",
+    "sources": "https://github.com/DNotesCoin/DNotes2.0/"
+  },
+  {
+    "symbol": "CURE",
+    "sources": "https://github.com/cygnusxi/CurecoinSource"
+  },
+  {
+    "symbol": "LUNES",
+    "sources": "https://github.com/Lunes-platform/LunesNode"
+  },
+  {
+    "symbol": "ION",
+    "sources": "https://github.com/ionomy/ion"
+  },
+  {
+    "symbol": "EXP",
+    "sources": "https://github.com/expanse-org/go-expanse"
+  },
+  {
+    "symbol": "QAC",
+    "sources": "https://github.com/quasarcoin/quasar"
+  },
+  {
+    "symbol": "XP",
+    "sources": "https://github.com/eXperiencePoints/XPCoin/"
+  },
+  {
+    "symbol": "NVC",
+    "sources": "https://github.com/novacoin-project/novacoin"
+  },
+  {
+    "symbol": "SNTR",
+    "sources": "https://github.com/SilentNotaryEcosystem/Cil-core"
+  },
+  {
+    "symbol": "SEM",
+    "sources": "https://github.com/semuxproject/semux-core"
+  },
+  {
+    "symbol": "XPC",
+    "sources": "https://github.com/xpc-wg/xpchain"
+  },
+  {
+    "symbol": "DOS",
+    "sources": "https://github.com/DOSNetwork/core"
+  },
+  {
+    "symbol": "D",
+    "sources": "https://github.com/carsenk/denarius"
+  },
+  {
+    "symbol": "OMNI",
+    "sources": "https://github.com/OmniLayer/omnicore"
+  },
+  {
+    "symbol": "TX",
+    "sources": "https://github.com/transferdev/Transfercoin/"
+  },
+  {
+    "symbol": "SNTVT",
+    "sources": "https://github.com/sentivate/SentivateAlphaNetwork"
+  },
+  {
+    "symbol": "OXY",
+    "sources": "https://github.com/Oxycoin/oxy-node"
+  },
+  {
+    "symbol": "TRTT",
+    "sources": "https://github.com/Trittium/trittium"
+  },
+  {
+    "symbol": "BSD",
+    "sources": "https://github.com/LIMXTEC/BitSend"
+  },
+  {
+    "symbol": "ONOT",
+    "sources": "https://github.com/onochat/ONOchain"
+  },
+  {
+    "symbol": "ESS",
+    "sources": "https://github.com/essentiaone/essx"
+  },
+  {
+    "symbol": "EBST",
+    "sources": "https://github.com/EBoost-dev/EBoost-dev/"
+  },
+  {
+    "symbol": "PAL",
+    "sources": "https://github.com/policypalnet/go-pal"
+  },
+  {
+    "symbol": "GIN",
+    "sources": "https://github.com/GIN-coin/gincoin-core"
+  },
+  {
+    "symbol": "42",
+    "sources": "https://github.com/42-coin/42"
+  },
+  {
+    "symbol": "EXCL",
+    "sources": "https://github.com/exclfork/ExclusiveCoin"
+  },
+  {
+    "symbol": "UPX",
+    "sources": "https://github.com/uPlexa/uplexa"
+  },
+  {
+    "symbol": "WEBD",
+    "sources": "https://github.com/WebDollar/Node-WebDollar"
+  },
+  {
+    "symbol": "BTCZ",
+    "sources": "https://github.com/bitcoinz-pod/bitcoinz"
+  },
+  {
+    "symbol": "ZER",
+    "sources": "https://github.com/zerocurrencycoin/Zero"
+  },
+  {
+    "symbol": "TTN",
+    "sources": "https://github.com/titancoinproject/Titan"
+  },
+  {
+    "symbol": "KORE",
+    "sources": "https://github.com/Kore-Core/kore"
+  },
+  {
+    "symbol": "RED",
+    "sources": "https://github.com/red/red"
+  },
+  {
+    "symbol": "MLM",
+    "sources": "https://github.com/Mktcoin-official/Mktcoin"
+  },
+  {
+    "symbol": "XSH",
+    "sources": "https://github.com/ShieldCoin/SHIELD"
+  },
+  {
+    "symbol": "MTX",
+    "sources": "https://github.com/matryx/calcflow"
+  },
+  {
+    "symbol": "XCASH",
+    "sources": "https://github.com/X-CASH-official/X-CASH"
+  },
+  {
+    "symbol": "XTC",
+    "sources": "https://github.com/contribute-torque/Torque"
+  },
+  {
+    "symbol": "COFI",
+    "sources": "https://github.com/coinfi/coinfi"
+  },
+  {
+    "symbol": "SS",
+    "sources": "https://github.com/Sharders/sharder-chain"
+  },
+  {
+    "symbol": "CSPN",
+    "sources": "https://github.com/c-sports/CSPN-Core"
+  },
+  {
+    "symbol": "MSR",
+    "sources": "https://github.com/masari-project/masari"
+  },
+  {
+    "symbol": "DBIX",
+    "sources": "https://github.com/dubaicoin-dbix/go-dubaicoin"
+  },
+  {
+    "symbol": "IOP",
+    "sources": "https://github.com/Internet-of-People/iop-core"
+  },
+  {
+    "symbol": "HQX",
+    "sources": "https://github.com/hoqu-io/hoquplatform-eos"
+  },
+  {
+    "symbol": "PINK",
+    "sources": "https://github.com/Pink2Dev/Pink2"
+  },
+  {
+    "symbol": "KEK",
+    "sources": "https://github.com/Kekcoin-Core/Kekcoin-Core-old"
+  },
+  {
+    "symbol": "PTOY",
+    "sources": "https://github.com/PTOYNetwork/ptoynet"
+  },
+  {
+    "symbol": "TIPS",
+    "sources": "https://github.com/jojapoppa/fedoratipscoin/"
+  },
+  {
+    "symbol": "BBP",
+    "sources": "https://github.com/biblepay/biblepay-evolution"
+  },
+  {
+    "symbol": "DUO",
+    "sources": "https://github.com/marcetin/parallelcoin"
+  },
+  {
+    "symbol": "LION",
+    "sources": "https://github.com/coin-lion/ico"
+  },
+  {
+    "symbol": "ESBC",
+    "sources": "https://github.com/BlockchainFor/ESBC2"
+  },
+  {
+    "symbol": "KRB",
+    "sources": "https://github.com/seredat/karbowanec"
+  },
+  {
+    "symbol": "XBC",
+    "sources": "https://github.com/bitcoinplusorg/xbcwalletsource"
+  },
+  {
+    "symbol": "MEME",
+    "sources": "https://github.com/pepeteam/pepecoin"
+  },
+  {
+    "symbol": "VRM",
+    "sources": "https://github.com/VeriumReserve/verium"
+  },
+  {
+    "symbol": "ESN",
+    "sources": "https://github.com/Ethersocial/go-ethersocial"
+  },
+  {
+    "symbol": "BIR",
+    "sources": "https://github.com/birake/birakecoin"
+  },
+  {
+    "symbol": "BWK",
+    "sources": "https://github.com/bulwark-crypto/Bulwark"
+  },
+  {
+    "symbol": "GOT",
+    "sources": "https://github.com/gonetwork-project/gonetwork-framework"
+  },
+  {
+    "symbol": "DYN",
+    "sources": "https://github.com/duality-solutions/Dynamic"
+  },
+  {
+    "symbol": "YOC",
+    "sources": "https://github.com/Yocoin15/Yocoin_Sources"
+  },
+  {
+    "symbol": "PYLNT",
+    "sources": "https://github.com/klenergy/pyloncoin"
+  },
+  {
+    "symbol": "XSG",
+    "sources": "https://github.com/Snowgem/Snowgem"
+  },
+  {
+    "symbol": "OWC",
+    "sources": "https://github.com/ODUWAX/oduwacoin"
+  },
+  {
+    "symbol": "ZXC",
+    "sources": "https://github.com/0xcert/framework"
+  },
+  {
+    "symbol": "MAO",
+    "sources": "https://github.com/mao-zedongx/mao-zedong/"
+  },
+  {
+    "symbol": "MOT",
+    "sources": "https://github.com/Olympus-Labs/olympus-protocol"
+  },
+  {
+    "symbol": "XLQ",
+    "sources": "https://github.com/alqocrypto/alqo"
+  },
+  {
+    "symbol": "XNV",
+    "sources": "https://github.com/angrywasp/nerva"
+  },
+  {
+    "symbol": "XQR",
+    "sources": "https://github.com/Qredit/core"
+  },
+  {
+    "symbol": "SEQ",
+    "sources": "https://github.com/duality-solutions/Dynamic"
+  },
+  {
+    "symbol": "XWP",
+    "sources": "https://github.com/swap-dev/swap"
+  },
+  {
+    "symbol": "ZCR",
+    "sources": "https://github.com/zcore-coin/zcore-source"
+  },
+  {
+    "symbol": "ANON",
+    "sources": "https://github.com/anonymousbitcoin/anon"
+  },
+  {
+    "symbol": "MNC",
+    "sources": "https://github.com/main-coin/coin"
+  },
+  {
+    "symbol": "ARO",
+    "sources": "https://github.com/arionum/node"
+  },
+  {
+    "symbol": "SCR",
+    "sources": "https://github.com/Scorum/Scorum"
+  },
+  {
+    "symbol": "GTM",
+    "sources": "https://github.com/genterium-project/gentarium"
+  },
+  {
+    "symbol": "CCX",
+    "sources": "https://github.com/ConcealNetwork/conceal-core"
+  },
+  {
+    "symbol": "ENRG",
+    "sources": "https://github.com/EnergyCoinProject/energycoin"
+  },
+  {
+    "symbol": "TTT",
+    "sources": "https://github.com/trustnote/trustnote-pow-common"
+  },
+  {
+    "symbol": "MNX",
+    "sources": "https://github.com/minexcoin/minexcoin"
+  },
+  {
+    "symbol": "EUNO",
+    "sources": "https://github.com/Euno/eunowallet"
+  },
+  {
+    "symbol": "SUMO",
+    "sources": "https://github.com/sumoprojects/sumokoin"
+  },
+  {
+    "symbol": "LTHN",
+    "sources": "https://github.com/LetheanMovement/lethean"
+  },
+  {
+    "symbol": "HUSH",
+    "sources": "https://github.com/MyHush/hush3"
+  },
+  {
+    "symbol": "RYO",
+    "sources": "https://github.com/ryo-currency/ryo-currency"
+  },
+  {
+    "symbol": "PGN",
+    "sources": "https://github.com/Pigeoncoin/pigeoncoin"
+  },
+  {
+    "symbol": "PTC",
+    "sources": "https://github.com/FundacionPesetacoin/PesetacoinCore"
+  },
+  {
+    "symbol": "DASHG",
+    "sources": "https://github.com/DashGreenCoin/dashgreen"
+  },
+  {
+    "symbol": "CPC",
+    "sources": "https://github.com/Capricoinofficial/Capricoin/"
+  },
+  {
+    "symbol": "SHMN",
+    "sources": "https://github.com/bitcoinbabys/StrongHandsMasterNode"
+  },
+  {
+    "symbol": "XCN",
+    "sources": "https://github.com/pallas1/Cryptonite/"
+  },
+  {
+    "symbol": "HER",
+    "sources": "https://github.com/hero-node/hero-node"
+  },
+  {
+    "symbol": "DEV",
+    "sources": "https://github.com/Deviantcoin/Source"
+  },
+  {
+    "symbol": "TCC",
+    "sources": "https://github.com/tcc-world/go-tcc"
+  },
+  {
+    "symbol": "GIC",
+    "sources": "https://github.com/GiantPay/GiantCore"
+  },
+  {
+    "symbol": "IG",
+    "sources": "https://github.com/IgniteIGT/token-profile"
+  },
+  {
+    "symbol": "EXMR",
+    "sources": "https://github.com/eXMRcoin/Ethereum-Monero"
+  },
+  {
+    "symbol": "GXX",
+    "sources": "https://github.com/GravityCoinOfficial/GravityCoin"
+  },
+  {
+    "symbol": "GBX",
+    "sources": "https://github.com/gobytecoin/gobyte/"
+  },
+  {
+    "symbol": "SPDR",
+    "sources": "https://github.com/SPDR-Core/spdr/"
+  },
+  {
+    "symbol": "VIEW",
+    "sources": "https://github.com/Viewly/Vidflow"
+  },
+  {
+    "symbol": "XBI",
+    "sources": "https://github.com/XBIncognito/xbi-4.3.2.1"
+  },
+  {
+    "symbol": "DAY",
+    "sources": "https://github.com/chronologic/chronologic"
+  },
+  {
+    "symbol": "HWC",
+    "sources": "https://github.com/hollywoodcoin-project/HollyWoodCoin"
+  },
+  {
+    "symbol": "ZET",
+    "sources": "https://github.com/zetacoin/zetacoin"
+  },
+  {
+    "symbol": "BSTY",
+    "sources": "https://github.com/GlobalBoost/GlobalBoost-Y"
+  },
+  {
+    "symbol": "JSE",
+    "sources": "https://github.com/JSEcoin/platform"
+  },
+  {
+    "symbol": "ACM",
+    "sources": "https://github.com/Actinium-project/Actinium-ng"
+  },
+  {
+    "symbol": "MESG",
+    "sources": "https://github.com/mesg-foundation/engine"
+  },
+  {
+    "symbol": "ARC",
+    "sources": "https://github.com/ArcticCore/arcticcoin"
+  },
+  {
+    "symbol": "BBK",
+    "sources": "https://github.com/BitBlocksProject/BitBlocks"
+  },
+  {
+    "symbol": "BTCN",
+    "sources": "https://github.com/Bitcoinote/Bitcoinote-Core"
+  },
+  {
+    "symbol": "KLKS",
+    "sources": "https://github.com/kalkulusteam/klks"
+  },
+  {
+    "symbol": "BTK",
+    "sources": "https://github.com/bitcoin-token/Bitcoin-Turbo-Koin-Core"
+  },
+  {
+    "symbol": "EDRC",
+    "sources": "https://github.com/EDRCoin/EDRcoin-src"
+  },
+  {
+    "symbol": "DOGEC",
+    "sources": "https://github.com/dogecash/dogecash"
+  },
+  {
+    "symbol": "ASAFE",
+    "sources": "https://github.com/Artinvest/Allsafe"
+  },
+  {
+    "symbol": "EXO",
+    "sources": "https://github.com/exosiscrypto/exosis"
+  },
+  {
+    "symbol": "UNIFY",
+    "sources": "https://github.com/SBDomains/unify-source"
+  },
+  {
+    "symbol": "AIB",
+    "sources": "https://github.com/iobond/aib"
+  },
+  {
+    "symbol": "AEG",
+    "sources": "https://github.com/AegeusCoin/aegeus/"
+  },
+  {
+    "symbol": "MMO",
+    "sources": "https://github.com/MMO-Coin/mmocoin"
+  },
+  {
+    "symbol": "TELOS",
+    "sources": "https://github.com/phoenixkonsole/transcendence"
+  },
+  {
+    "symbol": "BRO",
+    "sources": "https://github.com/thebitradio/Bitradio"
+  },
+  {
+    "symbol": "NBR",
+    "sources": "https://github.com/niobio-cash/niobio-node-daemon"
+  },
+  {
+    "symbol": "B2N",
+    "sources": "https://github.com/b2n-project/bitcoin2network"
+  },
+  {
+    "symbol": "ETHO",
+    "sources": "https://github.com/Ether1Project/Ether1"
+  },
+  {
+    "symbol": "XUEZ",
+    "sources": "https://github.com/XUEZ/xuez"
+  },
+  {
+    "symbol": "SDA",
+    "sources": "https://github.com/SDChain/SDChain-Core"
+  },
+  {
+    "symbol": "SPK",
+    "sources": "https://github.com/sparkspay/sparks"
+  },
+  {
+    "symbol": "ETI",
+    "sources": "https://github.com/etherinc/go-etherinc"
+  },
+  {
+    "symbol": "RPI",
+    "sources": "https://github.com/rpicoin/rpicore"
+  },
+  {
+    "symbol": "CARE",
+    "sources": "https://github.com/carebitcoin/carebitcoin"
+  },
+  {
+    "symbol": "OCC",
+    "sources": "https://github.com/OctoinCoin/octoin"
+  },
+  {
+    "symbol": "HELP",
+    "sources": "https://github.com/GoHelpFund/aden"
+  },
+  {
+    "symbol": "ABS",
+    "sources": "https://github.com/absolute-community/absolute"
+  },
+  {
+    "symbol": "BTCONE",
+    "sources": "https://github.com/BitCoinONE1/BTCONE-Blockchain"
+  },
+  {
+    "symbol": "DACHX",
+    "sources": "https://github.com/dachcoin/dach"
+  },
+  {
+    "symbol": "BTA",
+    "sources": "https://github.com/BTA-BATA/Bataoshi/"
+  },
+  {
+    "symbol": "XRA",
+    "sources": "https://github.com/RateCoinXRA/ratecoin/"
+  },
+  {
+    "symbol": "BTW",
+    "sources": "https://github.com/BTWhite/BTWChain"
+  },
+  {
+    "symbol": "AKA",
+    "sources": "https://github.com/akroma-project/akroma"
+  },
+  {
+    "symbol": "FBN",
+    "sources": "https://github.com/fivebalanceID/Fivebalance_V3"
+  },
+  {
+    "symbol": "ZNT",
+    "sources": "https://github.com/zenswapnetwork/ZenswapNetwork"
+  },
+  {
+    "symbol": "QUAN",
+    "sources": "https://github.com/QuantisDev/QuantisNet-Fork-New-Chain"
+  },
+  {
+    "symbol": "XTA",
+    "sources": "https://github.com/italocoin-project/italo"
+  },
+  {
+    "symbol": "BNC",
+    "sources": "https://github.com/bioniccoin/BNC"
+  },
+  {
+    "symbol": "GRLC",
+    "sources": "https://github.com/GarlicoinOrg/Garlicoin"
+  },
+  {
+    "symbol": "BLCR",
+    "sources": "https://github.com/blcrproject/BlacerCoin"
+  },
+  {
+    "symbol": "PCH",
+    "sources": "https://github.com/PopchainOrg/PopChain-gho"
+  },
+  {
+    "symbol": "RBY",
+    "sources": "https://github.com/rubycoinorg/rubycoin"
+  },
+  {
+    "symbol": "VEO",
+    "sources": "https://github.com/zack-bitcoin/amoveo/"
+  },
+  {
+    "symbol": "FAIR",
+    "sources": "https://github.com/FairCoinTeam/fair-coin"
+  },
+  {
+    "symbol": "MOON",
+    "sources": "https://github.com/mooncoincore/wallet"
+  },
+  {
+    "symbol": "VITES",
+    "sources": "https://github.com/viteseco/Vites"
+  },
+  {
+    "symbol": "HBX",
+    "sources": "https://github.com/hashbx/token-distribution"
+  },
+  {
+    "symbol": "VIPS",
+    "sources": "https://github.com/VIPSTARCOIN/VIPSTARCOIN"
+  },
+  {
+    "symbol": "COLX",
+    "sources": "https://github.com/ColossusCoinXT/ColossusCoinXT/"
+  },
+  {
+    "symbol": "BCA",
+    "sources": "https://github.com/bitcoin-atom/bitcoin-atom"
+  },
+  {
+    "symbol": "BC",
+    "sources": "https://github.com/Bitcoin-Confidential/BitcoinC-Core"
+  },
+  {
+    "symbol": "XBY",
+    "sources": "https://github.com/XTRABYTES/XTRABYTES"
+  },
+  {
+    "symbol": "BET",
+    "sources": "https://github.com/DaoCasino/dc-blockchain"
+  },
+  {
+    "symbol": "HPC",
+    "sources": "https://github.com/happycoinmaster/Happycoin"
+  },
+  {
+    "symbol": "SAFE",
+    "sources": "https://github.com/Fair-Exchange/safecoin/"
+  },
+  {
+    "symbol": "ALIS",
+    "sources": "https://github.com/AlisProject/frontend-application"
+  },
+  {
+    "symbol": "TWINS",
+    "sources": "https://github.com/NewCapital/TWINS-Core"
+  },
+  {
+    "symbol": "PURA",
+    "sources": "https://github.com/puracore/pura"
+  },
+  {
+    "symbol": "NYC",
+    "sources": "https://github.com/NewYorkCoin-NYC/nycoin"
+  },
+  {
+    "symbol": "LIKE",
+    "sources": "https://github.com/likecoin/likechain"
+  },
+  {
+    "symbol": "QRK",
+    "sources": "https://github.com/quark-project/quark"
+  },
+  {
+    "symbol": "ORB",
+    "sources": "https://github.com/Orbitcoin/Orbitcoin"
+  },
+  {
+    "symbol": "UFO",
+    "sources": "https://github.com/fiscalobject/ufo"
+  },
+  {
+    "symbol": "GOLOS",
+    "sources": "https://github.com/GolosChain/tolstoy"
+  },
+  {
+    "symbol": "EQT",
+    "sources": "https://github.com/equitrader/Equitrade"
+  },
+  {
+    "symbol": "ESP",
+    "sources": "https://github.com/cryptocoderz/espers"
+  },
+  {
+    "symbol": "XLR",
+    "sources": "https://github.com/Solaris-Project/Solaris/"
+  },
+  {
+    "symbol": "REBL",
+    "sources": "https://github.com/RebelliousToken/REBL"
+  },
+  {
+    "symbol": "THC",
+    "sources": "https://github.com/the-hempcoin-foundation/Hempcoin-Core"
+  },
+  {
+    "symbol": "SHND",
+    "sources": "https://github.com/stronghands/stronghands"
+  },
+  {
+    "symbol": "KB3",
+    "sources": "https://github.com/B3-Coin/B3-CoinV2"
+  },
+  {
+    "symbol": "KRM",
+    "sources": "https://github.com/Karma-blockchain/karmachain"
+  },
+  {
+    "symbol": "PWR",
+    "sources": "https://github.com/PWRcoin/PWRcoin"
+  },
+  {
+    "symbol": "SIC",
+    "sources": "https://github.com/SwisscoinTM/SwisscoinNode"
+  },
+  {
+    "symbol": "SPRTS",
+    "sources": "https://github.com/sprouts-coin-org/sprouts"
+  },
+  {
+    "symbol": "1337",
+    "sources": "https://github.com/ironsniper1/Elite-Source-2.0.1.2"
+  },
+  {
+    "symbol": "TMC",
+    "sources": "https://github.com/timihealth/timicoin"
+  },
+  {
+    "symbol": "COIN",
+    "sources": "https://github.com/CoinvestHQ/COIN"
+  },
+  {
+    "symbol": "MAX",
+    "sources": "https://github.com/Max-Coin/maxcoin"
+  },
+  {
+    "symbol": "BUZZ",
+    "sources": "https://github.com/buzzcoin-project/BUZZ"
+  },
+  {
+    "symbol": "DOV",
+    "sources": "https://github.com/TokenMarketNet/smart-contracts"
+  },
+  {
+    "symbol": "CANN",
+    "sources": "https://github.com/cannabiscoindev/cannabiscoin420"
+  },
+  {
+    "symbol": "HYP",
+    "sources": "https://github.com/hyperstake/HyperStake"
+  },
+  {
+    "symbol": "AUR",
+    "sources": "https://github.com/aurarad/auroracoin"
+  },
+  {
+    "symbol": "ZEIT",
+    "sources": "https://github.com/zeitcoin/zeitcoin"
+  },
+  {
+    "symbol": "IXC",
+    "sources": "https://github.com/ixcore/ixcoin"
+  },
+  {
+    "symbol": "HORSE",
+    "sources": "https://github.com/ethorse/ethorse-core"
+  },
+  {
+    "symbol": "XMG",
+    "sources": "https://github.com/magi-project/m-Noblecoin"
+  },
+  {
+    "symbol": "POP",
+    "sources": "https://github.com/Pop-Currency-Foundation/PopularCoin"
+  },
+  {
+    "symbol": "NTRN",
+    "sources": "https://github.com/neutroncoin/neutron"
+  },
+  {
+    "symbol": "SHARD",
+    "sources": "https://github.com/ShardcoinRepo/shard/"
+  },
+  {
+    "symbol": "SMLY",
+    "sources": "https://github.com/tutor-web/smileyCoin"
+  },
+  {
+    "symbol": "WDC",
+    "sources": "https://github.com/worldcoinproject/worldcoin-v0.8"
+  },
+  {
+    "symbol": "VULC",
+    "sources": "https://github.com/VulcanoCrypto/Vulcano"
+  },
+  {
+    "symbol": "HLM",
+    "sources": "https://github.com/heliumchain/helium"
+  },
+  {
+    "symbol": "CAT",
+    "sources": "https://github.com/bitclave/base-node"
+  },
+  {
+    "symbol": "QWC",
+    "sources": "https://github.com/qwertycoin-org/qwertycoin"
+  },
+  {
+    "symbol": "FRC",
+    "sources": "https://github.com/freicoin/freicoin"
+  },
+  {
+    "symbol": "CMM",
+    "sources": "https://github.com/CommerciumBlockchain/Commercium"
+  },
+  {
+    "symbol": "ZNY",
+    "sources": "https://github.com/bitzeny/bitzeny"
+  },
+  {
+    "symbol": "NOR",
+    "sources": "https://github.com/noirofficial/noir"
+  },
+  {
+    "symbol": "PENG",
+    "sources": "https://github.com/coinwebfactory/pengcore"
+  },
+  {
+    "symbol": "ANC",
+    "sources": "https://github.com/Anoncoin/anoncoin"
+  },
+  {
+    "symbol": "BTCS",
+    "sources": "https://github.com/bitcoin-scrypt/bitcoin-scrypt"
+  },
+  {
+    "symbol": "RUP",
+    "sources": "https://github.com/rupeedigitalassets/Rupee-Core"
+  },
+  {
+    "symbol": "DEM",
+    "sources": "https://github.com/emarkproject/eMark"
+  },
+  {
+    "symbol": "GLT",
+    "sources": "https://github.com/globaltoken/globaltoken"
+  },
+  {
+    "symbol": "ZENI",
+    "sources": "https://github.com/zennies/zennies"
+  },
+  {
+    "symbol": "FGC",
+    "sources": "https://github.com/FantasyGold/FantasyGold-Core"
+  },
+  {
+    "symbol": "TRC",
+    "sources": "https://github.com/terracoin/terracoin"
+  },
+  {
+    "symbol": "ADC",
+    "sources": "https://github.com/aurovine/audiocoin"
+  },
+  {
+    "symbol": "MNP",
+    "sources": "https://github.com/MasterNodesPro/MNPCoin"
+  },
+  {
+    "symbol": "EGC",
+    "sources": "https://github.com/EverGreenCoinDev/EverGreenCoin/"
+  },
+  {
+    "symbol": "CARBON",
+    "sources": "https://github.com/carboncointrust/CarboncoinCore"
+  },
+  {
+    "symbol": "BTXC",
+    "sources": "https://github.com/bettexproject/bettexcoin"
+  },
+  {
+    "symbol": "MFC",
+    "sources": "https://github.com/MFrcoin/MFCoin"
+  },
+  {
+    "symbol": "WIRE",
+    "sources": "https://github.com/AirWireOfficial/wire-core"
+  },
+  {
+    "symbol": "SEND",
+    "sources": "https://github.com/SocialSend/SocialSend"
+  },
+  {
+    "symbol": "PAK",
+    "sources": "https://github.com/pakcoin-project/pakcoin/"
+  },
+  {
+    "symbol": "NETKO",
+    "sources": "https://github.com/NetkoCoin/netko"
+  },
+  {
+    "symbol": "TROLL",
+    "sources": "https://github.com/TrollCoin2/TrollCoin-2.0"
+  },
+  {
+    "symbol": "BIO",
+    "sources": "https://github.com/Blackithart/biocoin"
+  },
+  {
+    "symbol": "ACC",
+    "sources": "https://github.com/adcoin-project/AdCoin"
+  },
+  {
+    "symbol": "BLTG",
+    "sources": "https://github.com/Block-Logic-Technology-Group/bltg"
+  },
+  {
+    "symbol": "GALI",
+    "sources": "https://github.com/Galilel-Project/galilel"
+  },
+  {
+    "symbol": "PUT",
+    "sources": "https://github.com/PutinCoinPUT/PutinCoin"
+  },
+  {
+    "symbol": "XGOX",
+    "sources": "https://github.com/bumbacoin/xgox"
+  },
+  {
+    "symbol": "LANA",
+    "sources": "https://github.com/LanaCoin/lanacoin"
+  },
+  {
+    "symbol": "FJC",
+    "sources": "https://github.com/fujicoin/fujicoin"
+  },
+  {
+    "symbol": "START",
+    "sources": "https://github.com/startcoin-project/startcoin"
+  },
+  {
+    "symbol": "GZRO",
+    "sources": "https://github.com/GZR0/GRZ0"
+  },
+  {
+    "symbol": "SIG",
+    "sources": "https://github.com/SpectivOfficial/live-tour-lab"
+  },
+  {
+    "symbol": "CTX",
+    "sources": "https://github.com/ctx-coin/centauri-coin"
+  },
+  {
+    "symbol": "HODL",
+    "sources": "https://github.com/HOdlcoin/HOdlcoin"
+  },
+  {
+    "symbol": "FOR",
+    "sources": "https://github.com/forceunited/force"
+  },
+  {
+    "symbol": "NYAN",
+    "sources": "https://github.com/Nyancoins/nyancoin-client"
+  },
+  {
+    "symbol": "NCP",
+    "sources": "https://github.com/livenet123/Newton"
+  },
+  {
+    "symbol": "SMS",
+    "sources": "https://github.com/Speed-Mining/SMSCoin"
+  },
+  {
+    "symbol": "PHO",
+    "sources": "https://github.com/photonproject/photon"
+  },
+  {
+    "symbol": "BLAST",
+    "sources": "https://github.com/blastdev/blast-core/"
+  },
+  {
+    "symbol": "VSX",
+    "sources": "https://github.com/VsyncCrypto/VSX"
+  },
+  {
+    "symbol": "BLU",
+    "sources": "https://github.com/bluecoiner/bluecoin-new"
+  },
+  {
+    "symbol": "INSN",
+    "sources": "https://github.com/CryptoCoderz/INSN"
+  },
+  {
+    "symbol": "ARCO",
+    "sources": "https://github.com/AquariusNetwork/ARCO"
+  },
+  {
+    "symbol": "SPD",
+    "sources": "https://github.com/Stipend-Developer/stipend"
+  },
+  {
+    "symbol": "LOBS",
+    "sources": "https://github.com/avymantech/lobstex"
+  },
+  {
+    "symbol": "BITS",
+    "sources": "https://github.com/bitstar/bitstar"
+  },
+  {
+    "symbol": "PCN",
+    "sources": "https://github.com/PXN-Foundation/Peepcoin/"
+  },
+  {
+    "symbol": "MAG",
+    "sources": "https://github.com/magnetwork/mag"
+  },
+  {
+    "symbol": "WSP",
+    "sources": "https://github.com/WisprProject/core"
+  },
+  {
+    "symbol": "IC",
+    "sources": "https://github.com/ignitioncoin/ignitioncoin"
+  },
+  {
+    "symbol": "WEB",
+    "sources": "https://github.com/webchain-network/webchaind"
+  },
+  {
+    "symbol": "XAP",
+    "sources": "https://github.com/apollondeveloper/ApollonCore/"
+  },
+  {
+    "symbol": "DEAL",
+    "sources": "https://github.com/flokisatoshi/IdealCash-DEAL"
+  },
+  {
+    "symbol": "611",
+    "sources": "https://github.com/611project/sixeleven"
+  },
+  {
+    "symbol": "BTB",
+    "sources": "https://github.com/Bitbarcoin/bitbar"
+  },
+  {
+    "symbol": "WOMEN",
+    "sources": "https://github.com/womencoin/womencoin"
+  },
+  {
+    "symbol": "KOBO",
+    "sources": "https://github.com/kobocoin/Kobocoin"
+  },
+  {
+    "symbol": "SNRG",
+    "sources": "https://github.com/Grandpa-Jones/Synergy"
+  },
+  {
+    "symbol": "TIT",
+    "sources": "https://github.com/tittiecoin/tittiecoin-2-0"
+  },
+  {
+    "symbol": "SKC",
+    "sources": "http://github.com/skeincoin/skeincoin"
+  },
+  {
+    "symbol": "MONK",
+    "sources": "https://github.com/MONKEYPROJECT/MonkeyV2"
+  },
+  {
+    "symbol": "HTH",
+    "sources": "https://github.com/HTHcoin/HTH/"
+  },
+  {
+    "symbol": "CROAT",
+    "sources": "https://github.com/croatproject/Croat"
+  },
+  {
+    "symbol": "ELE",
+    "sources": "https://github.com/elementrem/go-elementrem"
+  },
+  {
+    "symbol": "ORE",
+    "sources": "https://github.com/galactrum/galactrum"
+  },
+  {
+    "symbol": "HUZU",
+    "sources": "https://github.com/HUZU-Project/HUZU"
+  },
+  {
+    "symbol": "MXT",
+    "sources": "https://github.com/martexcoin/martexcoin"
+  },
+  {
+    "symbol": "SCC",
+    "sources": "https://github.com/stakecube/stakecube"
+  },
+  {
+    "symbol": "CHESS",
+    "sources": "https://github.com/coinforchess/chesscoin"
+  },
+  {
+    "symbol": "LABX",
+    "sources": "https://github.com/StakingLab/stakinglab"
+  },
+  {
+    "symbol": "ARG",
+    "sources": "https://github.com/argentumproject/argentum"
+  },
+  {
+    "symbol": "CRM",
+    "sources": "https://github.com/creamcoin/cream"
+  },
+  {
+    "symbol": "TALK",
+    "sources": "https://github.com/BCCproject/BTCtalkcoin"
+  },
+  {
+    "symbol": "SPR",
+    "sources": "https://github.com/spreadcoin/spreadcoin"
+  },
+  {
+    "symbol": "FND",
+    "sources": "https://github.com/FundRequest/platform"
+  },
+  {
+    "symbol": "IRL",
+    "sources": "https://github.com/IrishCoinProject/IrishCoin"
+  },
+  {
+    "symbol": "IMPL",
+    "sources": "https://github.com/impleum/ImpleumBitcoinFullNode"
+  },
+  {
+    "symbol": "GPKR",
+    "sources": "https://github.com/GoldPoker/GoldPoker-coin"
+  },
+  {
+    "symbol": "ELLA",
+    "sources": "https://github.com/ellaism/go-ellaism"
+  },
+  {
+    "symbol": "BSM",
+    "sources": "https://github.com/BitsumFoundation/bitsum_core"
+  },
+  {
+    "symbol": "UNIT",
+    "sources": "https://github.com/unitcurrency/unitcurrency/"
+  },
+  {
+    "symbol": "OTN",
+    "sources": "https://github.com/OpenTradingNetworkFoundation/otn-node"
+  },
+  {
+    "symbol": "SWING",
+    "sources": "https://github.com/SwingCoin/Swing/"
+  },
+  {
+    "symbol": "PRIV",
+    "sources": "https://github.com/privcycoin/privcy"
+  },
+  {
+    "symbol": "VIVID",
+    "sources": "https://github.com/vividplatform/vividcoin"
+  },
+  {
+    "symbol": "ADZ",
+    "sources": "https://github.com/AdzCoin/adzcoin"
+  },
+  {
+    "symbol": "TOKC",
+    "sources": "https://github.com/tokyocoindev/tokyocoinsrc"
+  },
+  {
+    "symbol": "IFLT",
+    "sources": "https://github.com/inflationcoin/inflationcoin"
+  },
+  {
+    "symbol": "IQ",
+    "sources": "https://github.com/IQ-Cash/iqcash"
+  },
+  {
+    "symbol": "ARQ",
+    "sources": "https://github.com/arqma/arqma"
+  },
+  {
+    "symbol": "IRD",
+    "sources": "https://github.com/iridiumdev/iridium"
+  },
+  {
+    "symbol": "CDM",
+    "sources": "https://github.com/condominium/CondominiumCore"
+  },
+  {
+    "symbol": "MNC",
+    "sources": "https://github.com/mincoin/mincoin"
+  },
+  {
+    "symbol": "BOLI",
+    "sources": "https://github.com/ElpidioMC/bolivarcoin"
+  },
+  {
+    "symbol": "MEC",
+    "sources": "https://github.com/LIMXTEC/Megacoin"
+  },
+  {
+    "symbol": "RUPX",
+    "sources": "https://github.com/rupaya-project/rupx"
+  },
+  {
+    "symbol": "LCP",
+    "sources": "https://github.com/Crypto-Currency/litecoinplus"
+  },
+  {
+    "symbol": "EVIL",
+    "sources": "https://github.com/coins4lunch/EvilCoin"
+  },
+  {
+    "symbol": "LNC",
+    "sources": "https://github.com/BlocklancerOrg/Blocklancer-Contracts"
+  },
+  {
+    "symbol": "PMNT",
+    "sources": "https://github.com/PaymonTeam/paymoncoin"
+  },
+  {
+    "symbol": "CRAVE",
+    "sources": "https://github.com/Crave-Project/Crave-NG"
+  },
+  {
+    "symbol": "VIDZ",
+    "sources": "https://github.com/purevidz/vidzcoin"
+  },
+  {
+    "symbol": "IMX",
+    "sources": "https://github.com/Impactcoin/IMX/"
+  },
+  {
+    "symbol": "ONX",
+    "sources": "https://github.com/onix-project/onixcoin"
+  },
+  {
+    "symbol": "DGC",
+    "sources": "https://github.com/lomtax/digitalcoin"
+  },
+  {
+    "symbol": "USC",
+    "sources": "https://github.com/SilentTrader/UltimateSecureCash"
+  },
+  {
+    "symbol": "ITI",
+    "sources": "https://github.com/sppl/iti"
+  },
+  {
+    "symbol": "EMD",
+    "sources": "https://github.com/crypto-currency/Emerald"
+  },
+  {
+    "symbol": "MOX",
+    "sources": "https://github.com/mox-project/MoX"
+  },
+  {
+    "symbol": "ZBA",
+    "sources": "https://github.com/zoombacoin/zoomba"
+  },
+  {
+    "symbol": "BRIA",
+    "sources": "https://github.com/briastorm/briacoin"
+  },
+  {
+    "symbol": "LINX",
+    "sources": "https://github.com/linX-project/linX"
+  },
+  {
+    "symbol": "BRIT",
+    "sources": "https://github.com/britcoin3/britcoin3.3"
+  },
+  {
+    "symbol": "ITT",
+    "sources": "https://github.com/IntelligentTrading/core"
+  },
+  {
+    "symbol": "LPC",
+    "sources": "https://github.com/lpcproject/LightPayCoin/"
+  },
+  {
+    "symbol": "CGEN",
+    "sources": "https://github.com/smartinsider/cgencore"
+  },
+  {
+    "symbol": "OPC",
+    "sources": "https://github.com/rfo92/OPCoin"
+  },
+  {
+    "symbol": "XPTX",
+    "sources": "https://github.com/xptx/PlatinumBar"
+  },
+  {
+    "symbol": "MERO",
+    "sources": "https://github.com/MeroCoin/mero"
+  },
+  {
+    "symbol": "SHB",
+    "sources": "https://github.com/SkyHuBs/skyhub/"
+  },
+  {
+    "symbol": "BLOC",
+    "sources": "https://github.com/furiousteam/BLOC"
+  },
+  {
+    "symbol": "ZUR",
+    "sources": "https://github.com/zurcoin/zurcoin"
+  },
+  {
+    "symbol": "XCO",
+    "sources": "https://github.com/jimblasko/xcoin"
+  },
+  {
+    "symbol": "CC",
+    "sources": "https://github.com/campuscoindev/CC"
+  },
+  {
+    "symbol": "BERN",
+    "sources": "https://github.com/BERNiecoin/BERNcash"
+  },
+  {
+    "symbol": "STEEP",
+    "sources": "https://github.com/Steepdev/SteepCoin"
+  },
+  {
+    "symbol": "XDNA",
+    "sources": "https://github.com/XDNA-Core/XDNA"
+  },
+  {
+    "symbol": "CJ",
+    "sources": "https://github.com/cryptojacks/CryptoJacks"
+  },
+  {
+    "symbol": "AMS",
+    "sources": "https://github.com/CoinProjects/AmsterdamCoin-v4/"
+  },
+  {
+    "symbol": "PHON",
+    "sources": "https://github.com/phonecoin-PHON/PhoneCoinCore"
+  },
+  {
+    "symbol": "BECN",
+    "sources": "https://github.com/beaconcrypto/beacon"
+  },
+  {
+    "symbol": "TOA",
+    "sources": "https://github.com/toacoin/TOA"
+  },
+  {
+    "symbol": "PLURA",
+    "sources": "https://github.com/pluracoin/PluraCoin"
+  },
+  {
+    "symbol": "XGS",
+    "sources": "https://github.com/genesis-x/genesis-x"
+  },
+  {
+    "symbol": "CAZ",
+    "sources": "https://github.com/copicogithub1/cazcoin"
+  },
+  {
+    "symbol": "BLC",
+    "sources": "https://github.com/BlueDragon747/Blakecoin"
+  },
+  {
+    "symbol": "RNS",
+    "sources": "https://github.com/RenosCoin/RenosCoin/"
+  },
+  {
+    "symbol": "BTDX",
+    "sources": "https://github.com/LIMXTEC/Bitcloud/"
+  },
+  {
+    "symbol": "SMC",
+    "sources": "https://github.com/psionin/smartcoin"
+  },
+  {
+    "symbol": "ARION",
+    "sources": "https://github.com/arioncoin/arioncoin"
+  },
+  {
+    "symbol": "BOAT",
+    "sources": "https://github.com/OBAViJEST/boatcoinfinal"
+  },
+  {
+    "symbol": "YTN",
+    "sources": "https://github.com/yentencoin/yenten"
+  },
+  {
+    "symbol": "INN",
+    "sources": "https://github.com/innova-coin/innova"
+  },
+  {
+    "symbol": "SND",
+    "sources": "https://github.com/snodeco/snode-coin"
+  },
+  {
+    "symbol": "MAY",
+    "sources": "https://github.com/ZuluFourM1ke/TheresaMayCoin-v1.0.1.0"
+  },
+  {
+    "symbol": "PRX",
+    "sources": "https://github.com/ProxyNode/proxynode"
+  },
+  {
+    "symbol": "DMB",
+    "sources": "https://github.com/DMBcryptocurrency/dmb"
+  },
+  {
+    "symbol": "AREPA",
+    "sources": "https://github.com/ProjectArepa/ArepaCoin"
+  },
+  {
+    "symbol": "SCRIV",
+    "sources": "https://github.com/ScrivNetwork/scriv"
+  },
+  {
+    "symbol": "VOT",
+    "sources": "https://github.com/Tomas-M/VoteCoin"
+  },
+  {
+    "symbol": "BWS",
+    "sources": "https://github.com/raymaker/bitcoinwspectrum"
+  },
+  {
+    "symbol": "BND",
+    "sources": "https://github.com/blocknodetech/blocknode"
+  },
+  {
+    "symbol": "APR",
+    "sources": "https://github.com/APRCoin/zenith-repository"
+  },
+  {
+    "symbol": "J",
+    "sources": "https://github.com/joincoin/joincoin"
+  },
+  {
+    "symbol": "WAGE",
+    "sources": "https://github.com/digiwage/digiwage"
+  },
+  {
+    "symbol": "QBC",
+    "sources": "https://github.com/morinpa/quebecoin"
+  },
+  {
+    "symbol": "JIN",
+    "sources": "https://github.com/jincoin/jincoin-core"
+  },
+  {
+    "symbol": "CTL",
+    "sources": "https://github.com/cntemple/Citadel/"
+  },
+  {
+    "symbol": "ZZC",
+    "sources": "https://github.com/ZoZoCoin/ZoZo-blockchain"
+  },
+  {
+    "symbol": "GB",
+    "sources": "https://github.com/goldblockscoin/goldblocks"
+  },
+  {
+    "symbol": "BUMBA",
+    "sources": "https://github.com/bumbacoin/bumbacoin2-source"
+  },
+  {
+    "symbol": "PSC",
+    "sources": "https://github.com/Primestonecoin/PrimeStone"
+  },
+  {
+    "symbol": "MST",
+    "sources": "https://github.com/mustangcoin/mst-v3"
+  },
+  {
+    "symbol": "WELL",
+    "sources": "https://github.com/joinwell/factom"
+  },
+  {
+    "symbol": "XXX",
+    "sources": "https://github.com/AdultChain/AdultChain/"
+  },
+  {
+    "symbol": "GSR",
+    "sources": "https://github.com/geysercoin/geysercoin"
+  },
+  {
+    "symbol": "CF",
+    "sources": "https://github.com/Californium/Californium"
+  },
+  {
+    "symbol": "XBTC21",
+    "sources": "https://www.github.com/bitcoin21/v1.0"
+  },
+  {
+    "symbol": "KNC",
+    "sources": "https://github.com/ulandort/kingncoin-source"
+  },
+  {
+    "symbol": "ACOIN",
+    "sources": "https://github.com/acoin-project/acoin"
+  },
+  {
+    "symbol": "POST",
+    "sources": "https://github.com/PostCoinDevelopers/PostCoin/"
+  },
+  {
+    "symbol": "BOST",
+    "sources": "https://github.com/mammix2/boostcoin-core"
+  },
+  {
+    "symbol": "NEVA",
+    "sources": "https://github.com/Nevacoin/nevacoin"
+  },
+  {
+    "symbol": "PNX",
+    "sources": "https://github.com/phantomxdev/phantomx"
+  },
+  {
+    "symbol": "SCS",
+    "sources": "https://github.com/scashml/scashcpp"
+  },
+  {
+    "symbol": "UTC",
+    "sources": "https://github.com/presstab/ultracoin-2"
+  },
+  {
+    "symbol": "TAJ",
+    "sources": "https://github.com/Taj-Coin/tajcoin"
+  },
+  {
+    "symbol": "OLMP",
+    "sources": "https://github.com/OlympicCoin/olympic"
+  },
+  {
+    "symbol": "DTEM",
+    "sources": "https://github.com/Dystem/dystem-core"
+  },
+  {
+    "symbol": "MOJO",
+    "sources": "https://github.com/MOJOv3/mojocoin"
+  },
+  {
+    "symbol": "ENT",
+    "sources": "https://github.com/eternity-group/eternity"
+  },
+  {
+    "symbol": "NYEX",
+    "sources": "https://github.com/nyerium-core/nyerium"
+  },
+  {
+    "symbol": "CHEESE",
+    "sources": "https://github.com/CheeseCoin/CheeseMasternode"
+  },
+  {
+    "symbol": "CSTL",
+    "sources": "https://github.com/growaleaf/CastleMN"
+  },
+  {
+    "symbol": "HONEY",
+    "sources": "https://github.com/cryptofun/honey/"
+  },
+  {
+    "symbol": "PAXEX",
+    "sources": "https://github.com/paxex/Paxex"
+  },
+  {
+    "symbol": "TRAID",
+    "sources": "https://github.com/TraidPlatform/traidcoin"
+  },
+  {
+    "symbol": "VTA",
+    "sources": "https://github.com/virtacoin/VirtaCoinProject"
+  },
+  {
+    "symbol": "LGS",
+    "sources": "https://github.com/lgsproject/LogisCoin"
+  },
+  {
+    "symbol": "HVCO",
+    "sources": "https://github.com/highvoltagecoin/highvoltagecoin"
+  },
+  {
+    "symbol": "ZYD",
+    "sources": "https://github.com/ZayedCoin/Zayedcoin"
+  },
+  {
+    "symbol": "VIVO",
+    "sources": "https://github.com/vivocoin/vivo/"
+  },
+  {
+    "symbol": "DLC",
+    "sources": "https://github.com/dollarcoins/source"
+  },
+  {
+    "symbol": "GRPH",
+    "sources": "https://github.com/Graphcoin/source"
+  },
+  {
+    "symbol": "PRJ",
+    "sources": "https://github.com/projectcoincore/ProjectCoin"
+  },
+  {
+    "symbol": "XCXT",
+    "sources": "https://github.com/xcxt-community/CoinonatX"
+  },
+  {
+    "symbol": "BSC",
+    "sources": "https://github.com/BowscoinBSC/Bowscoin"
+  },
+  {
+    "symbol": "IMS",
+    "sources": "https://github.com/independentmoneysystem/IMSCoin"
+  },
+  {
+    "symbol": "JEW",
+    "sources": "https://github.com/shekeltechnologies/JewNew"
+  },
+  {
+    "symbol": "SONO",
+    "sources": "https://github.com/zPools/sonoa/"
+  },
+  {
+    "symbol": "NZL",
+    "sources": "https://github.com/zealiumcoin/Zealium/"
+  },
+  {
+    "symbol": "KURT",
+    "sources": "https://github.com/kurrentproject/Kurrent"
+  },
+  {
+    "symbol": "EVOS",
+    "sources": "https://github.com/EVOS-DEV/evos-core"
+  },
+  {
+    "symbol": "PEX",
+    "sources": "https://github.com/PosEx/Posex"
+  },
+  {
+    "symbol": "AZART",
+    "sources": "https://github.com/azartpay/azart"
+  },
+  {
+    "symbol": "GRIM",
+    "sources": "https://github.com/GrimReaperCoins/GRIM"
+  },
+  {
+    "symbol": "NRO",
+    "sources": "https://github.com/neurocoin/neurocoin"
+  },
+  {
+    "symbol": "BIT",
+    "sources": "https://github.com/CryptVenture/BitMoneyV2"
+  },
+  {
+    "symbol": "MILO",
+    "sources": "https://github.com/MiloCoin/MiloCoin"
+  },
+  {
+    "symbol": "ICON",
+    "sources": "https://github.com/iconictoken/iconic"
+  },
+  {
+    "symbol": "BZL",
+    "sources": "https://github.com/bzlcoin/bzlcoin"
+  },
+  {
+    "symbol": "LBTC",
+    "sources": "https://github.com/litebitcoins/litebitcoin"
+  },
+  {
+    "symbol": "CFL",
+    "sources": "https://github.com/CryptoFlowCoin/CryptoFlowCoin"
+  },
+  {
+    "symbol": "ERY",
+    "sources": "https://github.com/Eryllium/project"
+  },
+  {
+    "symbol": "RAGNA",
+    "sources": "https://github.com/ragnaproject/Ragnarok"
+  },
+  {
+    "symbol": "XRH",
+    "sources": "https://github.com/Rheniumnetwork/Rhenium"
+  },
+  {
+    "symbol": "XIND",
+    "sources": "https://github.com/raymaker/bitcoinwspectrum"
+  },
+  {
+    "symbol": "CATO",
+    "sources": "https://github.com/CatoCoin/CatoCoin"
+  },
+  {
+    "symbol": "ARB",
+    "sources": "https://github.com/ARbitcoin/ARbit"
+  },
+  {
+    "symbol": "URALS",
+    "sources": "https://github.com/JohnMnemonick/UralsCoin"
+  },
+  {
+    "symbol": "VEC2",
+    "sources": "https://github.com/vectorcoindev/Vector"
+  },
+  {
+    "symbol": "SONG",
+    "sources": "https://github.com/Songcoin/Songcoin"
+  },
+  {
+    "symbol": "PRTX",
+    "sources": "https://github.com/Printex-official/printex-core/"
+  },
+  {
+    "symbol": "AMMO",
+    "sources": "https://github.com/AmmoCore/AmmoReloaded"
+  },
+  {
+    "symbol": "GMCN",
+    "sources": "https://github.com/GambleCoin-Project/GambleCoin"
+  },
+  {
+    "symbol": "BTPL",
+    "sources": "https://github.com/btpl2017/bitcoinplanet"
+  },
+  {
+    "symbol": "BENJI",
+    "sources": "https://github.com/BelligerentFool/BenjiRolls"
+  },
+  {
+    "symbol": "NUKO",
+    "sources": "https://github.com/nekonium/go-nekonium"
+  },
+  {
+    "symbol": "PLACO",
+    "sources": "https://github.com/TheCryptoServices/PlayerCoin"
+  },
+  {
+    "symbol": "BSX",
+    "sources": "https://github.com/Bitspacedev/BitSpace/"
+  },
+  {
+    "symbol": "LRM",
+    "sources": "https://github.com/lrmproject/LRMcoin"
+  },
+  {
+    "symbol": "IBANK",
+    "sources": "https://github.com/ibankgroup/Ibank"
+  },
+  {
+    "symbol": "PLNC",
+    "sources": "https://github.com/plncoin/PLNcoin_Core"
+  },
+  {
+    "symbol": "ACRE",
+    "sources": "https://github.com/acrecoin/acrecoin"
+  },
+  {
+    "symbol": "VOLT",
+    "sources": "https://github.com/voltcoin/Volt"
+  },
+  {
+    "symbol": "FLM",
+    "sources": "https://github.com/folm/folm"
+  },
+  {
+    "symbol": "CNNC",
+    "sources": "https://github.com/cannationproject/cannation"
+  },
+  {
+    "symbol": "SOCC",
+    "sources": "https://github.com/SocialCoinNetwk/SocialCoin"
+  },
+  {
+    "symbol": "MRI",
+    "sources": "https://github.com/bumbacoin/Mirai-Master/"
+  },
+  {
+    "symbol": "QNO",
+    "sources": "https://github.com/qyno/qynocoin"
+  },
+  {
+    "symbol": "CXT",
+    "sources": "https://github.com/coinonat/CoinonatX"
+  },
+  {
+    "symbol": "PNY",
+    "sources": "https://github.com/PeonyTeam/peony"
+  },
+  {
+    "symbol": "CREVA",
+    "sources": "https://github.com/crevacoin/creva"
+  },
+  {
+    "symbol": "JIYO",
+    "sources": "https://github.com/jiyocoin/jiyo-core"
+  },
+  {
+    "symbol": "OUR",
+    "sources": "https://github.com/ourcoin1/OurCoin"
+  },
+  {
+    "symbol": "ROCO",
+    "sources": "https://github.com/ROIyalCoin/ROIyalCoin"
+  },
+  {
+    "symbol": "ACP",
+    "sources": "https://github.com/AnarchistsPrime/Acp2"
+  },
+  {
+    "symbol": "COAL",
+    "sources": "https://github.com/bitcoal/bitcoal"
+  },
+  {
+    "symbol": "ITZ",
+    "sources": "https://github.com/projectinterzone/ITZ"
+  },
+  {
+    "symbol": "FOX",
+    "sources": "https://github.com/smartfoxteam/smartfox/"
+  },
+  {
+    "symbol": "MFIT",
+    "sources": "https://github.com/muayfitcoin/muayfitcoin/"
+  },
+  {
+    "symbol": "ALGO",
+    "sources": "https://github.com/algorand/go-algorand"
+  },
+  {
+    "symbol": "VOLLAR",
+    "sources": "https://github.com/v-dimension/vds-core"
+  },
+  {
+    "symbol": "ADK",
+    "sources": "https://github.com/AidosKuneen/aknode"
+  },
+  {
+    "symbol": "BU",
+    "sources": "https://github.com/bumoproject/bumo"
+  },
+  {
+    "symbol": "WIN",
+    "sources": "https://github.com/WinchainOS/Winchain"
+  },
+  {
+    "symbol": "FOIN",
+    "sources": "https://github.com/foinio/foin"
+  },
+  {
+    "symbol": "AXE",
+    "sources": "https://github.com/AXErunners/axecore-node"
+  },
+  {
+    "symbol": "FTO",
+    "sources": "https://github.com/futuro-coin/Futuro"
+  },
+  {
+    "symbol": "XUC",
+    "sources": "https://github.com/ExchangeUnion/xud"
+  },
+  {
+    "symbol": "PTN",
+    "sources": "https://github.com/palletone/go-palletone"
+  },
+  {
+    "symbol": "VTHO",
+    "sources": "https://github.com/vechain/thor"
+  },
+  {
+    "symbol": "QDAO",
+    "sources": "https://github.com/platinum-engineering/qdao-smartcontract-qdao"
+  },
+  {
+    "symbol": "MIC",
+    "sources": "https://github.com/mindexcoin/Mindexcoin"
+  },
+  {
+    "symbol": "TOS",
+    "sources": "https://github.com/TOSIO/tos"
+  },
+  {
+    "symbol": "TOSC",
+    "sources": "https://github.com/tos-project/TOSC"
+  },
+  {
+    "symbol": "SBTC",
+    "sources": "https://github.com/superbitcoin/SuperBitcoin"
+  },
+  {
+    "symbol": "LIGHT",
+    "sources": "https://github.com/lightchainone/lightchain"
+  },
+  {
+    "symbol": "BST",
+    "sources": "https://github.com/BlockStamp/bst"
+  },
+  {
+    "symbol": "GET",
+    "sources": "https://github.com/themis-network/go-themis"
+  },
+  {
+    "symbol": "IIC",
+    "sources": "https://github.com/iichain/iichain-core"
+  },
+  {
+    "symbol": "SAFE",
+    "sources": "https://github.com/BankLedger/safe"
+  },
+  {
+    "symbol": "OF",
+    "sources": "https://github.com/ofproject/babyboy"
+  },
+  {
+    "symbol": "MZK",
+    "sources": "https://github.com/MuzikaFoundation/muzika-platform"
+  },
+  {
+    "symbol": "BUD",
+    "sources": "https://github.com/buddy-works/buddy-cli"
+  },
+  {
+    "symbol": "AGRS",
+    "sources": "https://github.com/idni/tau"
+  },
+  {
+    "symbol": "UCT",
+    "sources": "https://github.com/UCOT/IoT-chain"
+  },
+  {
+    "symbol": "UBTC",
+    "sources": "https://github.com/UnitedBitcoin/UnitedBitcoin"
+  },
+  {
+    "symbol": "BCX",
+    "sources": "https://github.com/bitcoinx-project/bitcoinx"
+  },
+  {
+    "symbol": "RBTC",
+    "sources": "https://github.com/rsksmart/rskj"
+  },
+  {
+    "symbol": "GRN",
+    "sources": "https://github.com/green-powerchain-ltd/greenpower-blockchain"
+  },
+  {
+    "symbol": "INSUR",
+    "sources": "https://github.com/InsurChain/insur-core"
+  },
+  {
+    "symbol": "COS",
+    "sources": "https://github.com/coschain/contentos-go"
+  },
+  {
+    "symbol": "LPT",
+    "sources": "https://github.com/livepeer/go-livepeer"
+  },
+  {
+    "symbol": "BIFI",
+    "sources": "https://github.com/bitcoinfile/bitcoinfile"
+  },
+  {
+    "symbol": "TV",
+    "sources": "https://github.com/tivalueproject/TiValue"
+  },
+  {
+    "symbol": "MERI",
+    "sources": "https://github.com/ElCrebel/Merebel"
+  },
+  {
+    "symbol": "RFOX",
+    "sources": "https://github.com/jl777/komodo"
+  },
+  {
+    "symbol": "PXC",
+    "sources": "https://github.com/PixieCoinFoundation/PixieCoin"
+  },
+  {
+    "symbol": "BORA",
+    "sources": "https://github.com/boraecosystem/go-bora"
+  },
+  {
+    "symbol": "MCT",
+    "sources": "https://github.com/Splyse/MCT"
+  },
+  {
+    "symbol": "LEMO",
+    "sources": "https://github.com/LemoFoundationLtd/lemochain-core"
+  },
+  {
+    "symbol": "XMC",
+    "sources": "https://github.com/monero-classic/monero"
+  },
+  {
+    "symbol": "MCC",
+    "sources": "https://github.com/MovingCloudChain/mcc"
+  },
+  {
+    "symbol": "AYA",
+    "sources": "https://github.com/Aryacoin/Aryacoin"
+  },
+  {
+    "symbol": "TCASH",
+    "sources": "https://github.com/EtherFlyer/etherflyer_exchange_server"
+  },
+  {
+    "symbol": "CDC",
+    "sources": "https://github.com/cdcchain/cdc-core"
+  },
+  {
+    "symbol": "GFR",
+    "sources": "https://github.com/goldenfever/GoldenFever"
+  },
+  {
+    "symbol": "NTR",
+    "sources": "https://github.com/Netrum/Netrum-Blockchain"
+  },
+  {
+    "symbol": "HDAC",
+    "sources": "https://github.com/Hdactech/hdac"
+  },
+  {
+    "symbol": "ZNN",
+    "sources": "https://github.com/zenonnetwork/zenon"
+  },
+  {
+    "symbol": "NEWOS",
+    "sources": "https://github.com/news-chain/newschain/"
+  },
+  {
+    "symbol": "CLUB",
+    "sources": "https://github.com/BitClubDev/ClubCoin"
+  },
+  {
+    "symbol": "BCZ",
+    "sources": "https://github.com/BitcoinCZ/bitcoincz"
+  },
+  {
+    "symbol": "BTC2",
+    "sources": "https://github.com/BITC2/bitcoin2"
+  },
+  {
+    "symbol": "MBC",
+    "sources": "https://github.com/MicroBitcoinOrg/MicroBitcoin"
+  },
+  {
+    "symbol": "BITC",
+    "sources": "https://github.com/WillyTheCat/BitCash"
+  },
+  {
+    "symbol": "TOC",
+    "sources": "https://github.com/touchconDev/go-touchcon"
+  },
+  {
+    "symbol": "IFC",
+    "sources": "https://github.com/infinitecoin/infinitecoin"
+  },
+  {
+    "symbol": "1X2",
+    "sources": "https://github.com/1X2coin/1X2coin"
+  },
+  {
+    "symbol": "PLUS1",
+    "sources": "https://github.com/plusonecoin/plusonecoin"
+  },
+  {
+    "symbol": "RPL",
+    "sources": "https://github.com/rocket-pool/rocketpool"
+  },
+  {
+    "symbol": "XSM",
+    "sources": "https://github.com/Spectrumcash/Spectrum-Coin"
+  },
+  {
+    "symbol": "SXC",
+    "sources": "https://github.com/sexcoin-project/sexcoin"
+  },
+  {
+    "symbol": "B2X",
+    "sources": "https://github.com/SegwitB2X/bitcoin2x"
+  },
+  {
+    "symbol": "SUP",
+    "sources": "https://github.com/TheSuperiorCoin/TheSuperiorCoin"
+  },
+  {
+    "symbol": "BZE",
+    "sources": "https://github.com/bze-alphateam/bzedge"
+  },
+  {
+    "symbol": "XMV",
+    "sources": "https://github.com/monerov/monerov"
+  },
+  {
+    "symbol": "MCPC",
+    "sources": "https://github.com/MobilePayCoin/MobilePayCoin"
+  },
+  {
+    "symbol": "SZC",
+    "sources": "https://github.com/shopzcoin/shopzcoin"
+  },
+  {
+    "symbol": "ELLI",
+    "sources": "https://github.com/elliotproject/elli/"
+  },
+  {
+    "symbol": "CTT",
+    "sources": "https://github.com/CTTDeveloperTeam/CTTCoin"
+  },
+  {
+    "symbol": "PROUD",
+    "sources": "https://github.com/Gaycoins/GAYcoin-Online"
+  },
+  {
+    "symbol": "AXIOM",
+    "sources": "https://github.com/axiomcryptocurrency/axiom"
+  },
+  {
+    "symbol": "TELL",
+    "sources": "https://github.com/telluriondev/tellurion"
+  },
+  {
+    "symbol": "HLX",
+    "sources": "https://github.com/swatchie-1/hilux"
+  },
+  {
+    "symbol": "IFP",
+    "sources": "https://github.com/infinipay/infinipay"
+  },
+  {
+    "symbol": "XQN",
+    "sources": "https://github.com/CedricProfit/Quotient"
+  },
+  {
+    "symbol": "CIV",
+    "sources": "https://github.com/eastcoastcrypto/Civitas/"
+  },
+  {
+    "symbol": "BUB",
+    "sources": "https://github.com/spayse/Bubble/"
+  },
+  {
+    "symbol": "COTN",
+    "sources": "https://github.com/cottoncoin/cottoncoin"
+  },
+  {
+    "symbol": "C2P",
+    "sources": "https://github.com/Coin2Play/c2pcore"
+  },
+  {
+    "symbol": "WINK",
+    "sources": "https://github.com/winkchain/wink"
+  },
+  {
+    "symbol": "SNO",
+    "sources": "https://github.com/savenode/SaveNodeCore/"
+  },
+  {
+    "symbol": "TRO",
+    "sources": "https://github.com/trunkcoin/TrunkCoin"
+  },
+  {
+    "symbol": "BLAZR",
+    "sources": "https://github.com/FlikkaFlak/blazercoin"
+  },
+  {
+    "symbol": "AV",
+    "sources": "https://github.com/avatarcoin/avatarcoin"
+  },
+  {
+    "symbol": "CIF",
+    "sources": "https://github.com/CIF-Github/CIF-Core"
+  },
+  {
+    "symbol": "EMB",
+    "sources": "https://github.com/EmberCoin/Ember/"
+  },
+  {
+    "symbol": "BCARD",
+    "sources": "https://github.com/CARDbuyers/BCARD"
+  },
+  {
+    "symbol": "X12",
+    "sources": "https://github.com/x12project/x12-core"
+  },
+  {
+    "symbol": "WC",
+    "sources": "https://github.com/Wincoinofficial/wincoin"
+  },
+  {
+    "symbol": "VLU",
+    "sources": "https://github.com/valuto/valuto-old"
+  },
+  {
+    "symbol": "DKPC",
+    "sources": "https://github.com/DarkPayCoin/darkpaycoin"
+  },
+  {
+    "symbol": "HNDC",
+    "sources": "https://github.com/HondaisCoin/HNDC"
+  },
+  {
+    "symbol": "IQT",
+    "sources": "https://github.com/IquantChain/"
+  },
+  {
+    "symbol": "ACES",
+    "sources": "https://github.com/aces-coin/AcesCoin"
+  },
+  {
+    "symbol": "ESCO",
+    "sources": "https://github.com/Escrow-Coin/escrowcoreV2"
+  },
+  {
+    "symbol": "MEETONE",
+    "sources": "https://github.com/meet-one/documentation"
+  },
+  {
+    "symbol": "SAC",
+    "sources": "https://github.com/SACChain/SAC"
+  },
+  {
+    "symbol": "COBRA",
+    "sources": "https://github.com/cobrabytes/CobraBytes/"
+  },
+  {
+    "symbol": "AEC",
+    "sources": "https://github.com/emaratcoin/EmaratCoinProject"
+  },
+  {
+    "symbol": "OMEN",
+    "sources": "https://github.com/omencoin/omencoin"
+  },
+  {
+    "symbol": "GMBC",
+    "sources": "https://github.com/gamblica-gmbc/gmbc"
+  },
+  {
+    "symbol": "BOLTT",
+    "sources": "https://github.com/Bolttcoindev/BolttCoin"
+  },
+  {
+    "symbol": "HN",
+    "sources": "https://github.com/BlackTurtle123/TurtleNetwork"
+  },
+  {
+    "symbol": "SPRK",
+    "sources": "https://github.com/sparkster-me/Decentralized-Cloud"
+  },
+  {
+    "symbol": "BET",
+    "sources": "https://github.com/betacoindev/betacoin"
+  },
+  {
+    "symbol": "FRGC",
+    "sources": "https://github.com/fargocoin/fargocoind"
+  },
+  {
+    "symbol": "HALLO",
+    "sources": "https://github.com/hesdeadjim/HalloweenCoinFinal"
+  },
+  {
+    "symbol": "BIRDS",
+    "sources": "https://github.com/Birdsdev/Birds"
+  },
+  {
+    "symbol": "ERA",
+    "sources": "https://github.com/cryptofun/blas"
+  },
+  {
+    "symbol": "ACC",
+    "sources": "https://github.com/sxmz/acchain"
+  },
+  {
+    "symbol": "CROP",
+    "sources": "https://github.com/Cropdev/CropDev"
+  },
+  {
+    "symbol": "FT",
+    "sources": "https://github.com/fractalplatform/fractal"
+  },
+  {
+    "symbol": "PDX",
+    "sources": "https://github.com/PayDayCoinIo/PayDayCoin"
+  },
+  {
+    "symbol": "CCC",
+    "sources": "https://github.com/ConciergeCoin/Concierge"
+  },
+  {
+    "symbol": "LABH",
+    "sources": "https://github.com/labhcoin/labh"
+  },
+  {
+    "symbol": "PNDM",
+    "sources": "https://github.com/pandemiacoin/pandemia/"
+  },
+  {
+    "symbol": "GRAT",
+    "sources": "https://github.com/gratzio"
+  }
+]
